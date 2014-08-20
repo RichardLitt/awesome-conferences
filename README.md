@@ -46,6 +46,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * CSSconf.eu [@CSSconfeu](https://twitter.com/CSSconfeu)
 * British Node Conf [@britishnodeconf](https://twitter.com/britishnodeconf)
 * Reject.JS [@RejectJS](https://twitter.com/RejectJS)
+* Beyond Tellerrand [@btconf](https://twitter.com/btconf)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
