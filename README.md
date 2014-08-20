@@ -25,6 +25,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * Forward JS [@forwardJS](https://twitter.com/forwardJS/)
 * Geospatial Canada [@GeospatialCan](https://twitter.com/GeospatialCan)
 * Space City JS [@SpaceCityJS](https://twitter.com/SpaceCityJS)
+* HTML5DevConf [@html5devconf](https://twitter.com/html5devconf)
 
 ###South American
 * JSConf Colombia [@jsconfco](https://twitter.com/jsconfco)
