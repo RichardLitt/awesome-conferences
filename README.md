@@ -21,6 +21,8 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * MidwestJS [@midwest_js](https://twitter.com/midwest_js)
 * manhattan.js [@manhattan_js](https://twitter.com/manhattan_js)
 * NYC HTML5 [@NYCHTML5](https://twitter.com/NYCHTML5)
+* Edge Conf [@edgeconf](https://twitter.com/edgeconf)
+* Forward JS [@forwardJS](https://twitter.com/forwardJS/)
 
 ###South American
 * JSConf Colombia [@jsconfco](https://twitter.com/jsconfco)
