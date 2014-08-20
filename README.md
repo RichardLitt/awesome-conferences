@@ -47,9 +47,9 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
-* JSConf.Asia [@jsconfasia](https://twitter.com/jsconfasia)
-* LXJS [@LXJS](https://twitter.com/lxjs)
-* JingJS (京JS) [@jingjsconf](https://twitter.com/jingjsconf)
+* [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
+* [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
+* [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * NodeConf India [@NodeConfin](https://twitter.com/NodeConfIn)
 
 ### Australian
@@ -59,7 +59,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 
 ###Miscellaneous
 * MedellinJS [@MedellinJS](https://twitter.com/MedellinJS)
-* Web Rebels Conf [@web_rebels](https://twitter.com/web_rebels)
+* [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
 * Future Insights [@Future_Insights](https://twitter.com/Future_Insights)
 * O'Reilly Fluent [@fluentconf](https://twitter.com/fluentconf)
 * BackboneConf [@backboneconf](https://twitter.com/backboneconf)
