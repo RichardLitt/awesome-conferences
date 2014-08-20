@@ -6,7 +6,7 @@ A list of awesome conferences. Inspired by the [awesome](https://github.com/sind
 _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). Entries are currently and regretably mostly front end focused, and should be split into categories as the list grows. PR's welcomed._
 
 ###North American
-* JSConf [@jsconf]](https://twitter.com/jsconf)
+* JSConf [@jsconf](https://twitter.com/jsconf)
 * jQuery Conference [@jqcon](https://twitter.com/jqcon)
 * Strange Loop Conf [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * TXJS [@txjs](https://twitter.com/txjs)
