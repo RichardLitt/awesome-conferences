@@ -53,9 +53,9 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * NodeConf India [@NodeConfin](https://twitter.com/NodeConfIn)
 
 ### Australian
-* JSConfAU [@JSConfAU](https://twitter.com/JSConfAU)
-* CampJS [@campjsnews](https://twitter.com/campjsnews)
-* CSSConf Australia [@cssconfau](https://twitter.com/cssconfau)
+* [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
+* [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
+* [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 
 ###Miscellaneous
 * MedellinJS [@MedellinJS](https://twitter.com/MedellinJS)
