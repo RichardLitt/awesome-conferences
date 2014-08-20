@@ -21,6 +21,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * MidwestJS [@midwest_js](https://twitter.com/midwest_js)
 * manhattan.js [@manhattan_js](https://twitter.com/manhattan_js)
 * NYC HTML5 [@NYCHTML5](https://twitter.com/NYCHTML5)
+* Geospatial Canada [@GeospatialCan](https://twitter.com/GeospatialCan)
 
 ###South American
 * JSConf Colombia [@jsconfco](https://twitter.com/jsconfco)
