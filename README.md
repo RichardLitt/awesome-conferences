@@ -31,19 +31,19 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 
 ###European
 * [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
-* Cornerstone [@cornerstone](https://twitter.com/CornerstoneSwe)
+* [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * Munich JavaScript UF [@munichjs](https://twitter.com/munichjs)
 * JS Italian Conf [@jsconfit](https://twitter.com/jsconfit)
-* JSConf BR [@jsconfbr](https://twitter.com/jsconfbr)
+* [JSConf BR](jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
 * copenhagenjs [@copenhagenjs](https://twitter.com/copenhagenjs)
 * MoscowJS [@moscowjs](https://twitter.com/moscowjs)
-* NodeConf Europe [@nodeconfeu](https://twitter.com/nodeconfeu)
-* RealtimeConf Europe [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
-* coldfrontconf [@coldfrontconf](https://twitter.com/coldfrontconf)
-* Ember Fest [@EmberFest](https://twitter.com/EmberFest)
-* CSSconf EU [@CSSconfeu](https://twitter.com/CSSconfeu)
-* British Node Conf [@britishnodeconf](https://twitter.com/britishnodeconf)
-* Reject.JS [@RejectJS](https://twitter.com/RejectJS)
+* [NodeConf Europe](http://nodeconfeu.com/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
+* [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
+* [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
+* [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
+* [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
+* [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
+* [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
