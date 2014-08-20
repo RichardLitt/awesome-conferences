@@ -25,9 +25,9 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [Forward JS](http://forwardjs.com/) // [@forwardJS](https://twitter.com/forwardJS/)
 
 ###South American
-* JSConf Colombia [@jsconfco](https://twitter.com/jsconfco)
-* JSConf Argentina [@jsconfar](https://twitter.com/jsconfar)
-* JSConf Uruguay [@JSConfUY](https://twitter.com/JSConfUY)
+* [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
+* [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
+* [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 
 ###European
 * [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
