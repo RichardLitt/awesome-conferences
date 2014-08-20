@@ -6,7 +6,7 @@ A list of awesome conferences. Inspired by the [awesome](https://github.com/sind
 _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). Entries are currently and regretably mostly front end focused, and should be split into categories as the list grows. PR's welcomed._
 
 ###North American
-* JSConf [@jsconf]](https://twitter.com/jsconf)
+* JSConf [@jsconf](https://twitter.com/jsconf)
 * jQuery Conference [@jqcon](https://twitter.com/jqcon)
 * Strange Loop Conf [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * TXJS [@txjs](https://twitter.com/txjs)
@@ -21,6 +21,8 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * MidwestJS [@midwest_js](https://twitter.com/midwest_js)
 * manhattan.js [@manhattan_js](https://twitter.com/manhattan_js)
 * NYC HTML5 [@NYCHTML5](https://twitter.com/NYCHTML5)
+* Edge Conf [@edgeconf](https://twitter.com/edgeconf)
+* Forward JS [@forwardJS](https://twitter.com/forwardJS/)
 * Geospatial Canada [@GeospatialCan](https://twitter.com/GeospatialCan)
 
 ###South American
