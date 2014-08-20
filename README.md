@@ -23,9 +23,9 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
 * [Forward JS](http://forwardjs.com/) // [@forwardJS](https://twitter.com/forwardJS/)
-* Geospatial Canada [@GeospatialCan](https://twitter.com/GeospatialCan)
-* Space City JS [@SpaceCityJS](https://twitter.com/SpaceCityJS)
-* HTML5DevConf [@html5devconf](https://twitter.com/html5devconf)
+* [Geospatial Canada](http://geospatialcanada.wbresearch.com/) // [@GeospatialCan](https://twitter.com/GeospatialCan)
+* [Space City JS](http://spacecityjs.com/) // [@SpaceCityJS](https://twitter.com/SpaceCityJS)
+* [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
 
 ###South American
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
@@ -47,7 +47,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
-* Beyond Tellerrand [@btconf](https://twitter.com/btconf)
+* [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
