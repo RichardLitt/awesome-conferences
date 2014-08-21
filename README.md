@@ -28,6 +28,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
+* [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
