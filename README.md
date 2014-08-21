@@ -31,6 +31,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
 * [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
 * [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
+* [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
