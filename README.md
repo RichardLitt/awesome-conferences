@@ -60,6 +60,11 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [ng-europe](http://ngeurope.org/) // [@ngEurope](https://twitter.com/ngEurope)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
+* [dotJS](http://www.dotjs.io/) // [@dotJS](https://twitter.com/dotJS)
+* [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
+* [dotGo](http://www.dotgo.io/) // [@dotGoEu](https://twitter.com/dotGoEu)
+* [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
+* [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
