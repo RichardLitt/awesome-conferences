@@ -29,6 +29,8 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
+* [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
+* [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
