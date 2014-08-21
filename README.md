@@ -26,7 +26,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [Geospatial Canada](http://geospatialcanada.wbresearch.com/) // [@GeospatialCan](https://twitter.com/GeospatialCan)
 * [Space City JS](http://spacecityjs.com/) // [@SpaceCityJS](https://twitter.com/SpaceCityJS)
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
-* [RobotsConf](http://2014.robotsconf.com/) // [@RobotsConf](https://twitter.com/RobotsConf)
+* [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
 
 ###South American
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
