@@ -39,6 +39,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
+* [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
 
 ###European
 * [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
