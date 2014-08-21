@@ -55,6 +55,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * NodeConf India [@NodeConfin](https://twitter.com/NodeConfIn)
+* [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
 
 ### Australian
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
