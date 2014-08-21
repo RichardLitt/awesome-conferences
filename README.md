@@ -38,6 +38,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * Munich JavaScript UF [@munichjs](https://twitter.com/munichjs)
 * JS Italian Conf [@jsconfit](https://twitter.com/jsconfit)
 * [JSConf BR](jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
+* [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * copenhagenjs [@copenhagenjs](https://twitter.com/copenhagenjs)
 * MoscowJS [@moscowjs](https://twitter.com/moscowjs)
 * [NodeConf Europe](http://nodeconfeu.com/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
@@ -52,7 +53,6 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
-* [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * NodeConf India [@NodeConfin](https://twitter.com/NodeConfIn)
 
