@@ -28,6 +28,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
 
 ###South American
+* [JSConf BR](jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
@@ -37,7 +38,6 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * Munich JavaScript UF [@munichjs](https://twitter.com/munichjs)
 * JS Italian Conf [@jsconfit](https://twitter.com/jsconfit)
-* [JSConf BR](jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
 * copenhagenjs [@copenhagenjs](https://twitter.com/copenhagenjs)
 * MoscowJS [@moscowjs](https://twitter.com/moscowjs)
 * [NodeConf Europe](http://nodeconfeu.com/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
