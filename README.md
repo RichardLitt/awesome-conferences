@@ -72,3 +72,4 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * JSFest [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
+* [ng-conf](http://ng-conf.org) // [@ngconf](https://twitter.com/ngconf)
