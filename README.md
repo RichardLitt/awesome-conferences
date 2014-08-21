@@ -26,6 +26,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [Geospatial Canada](http://geospatialcanada.wbresearch.com/) // [@GeospatialCan](https://twitter.com/GeospatialCan)
 * [Space City JS](http://spacecityjs.com/) // [@SpaceCityJS](https://twitter.com/SpaceCityJS)
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
+* [ng-conf](http://ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 
 ###South American
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
@@ -48,6 +49,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
+* [ng-europe](http://ngeurope.org/) // [@ngEurope](https://twitter.com/ngEurope)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
