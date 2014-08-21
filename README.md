@@ -55,6 +55,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [ng-europe](http://ngeurope.org/) // [@ngEurope](https://twitter.com/ngEurope)
+* [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
