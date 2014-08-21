@@ -33,6 +33,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
 * [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
+* [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
