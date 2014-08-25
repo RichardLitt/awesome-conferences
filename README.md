@@ -73,6 +73,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [dotGo](http://www.dotgo.io/) // [@dotGoEu](https://twitter.com/dotGoEu)
 * [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
 * [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
+* [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
