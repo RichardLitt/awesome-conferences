@@ -27,13 +27,16 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [CapitolJS](http://www.capitoljs.com/) // [@capitoljs](https://twitter.com/capitoljs)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
+* [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
+* [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
+* [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
 
 ####New York
-* [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
-* [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
+* [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
+* [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
 
 ###South American
@@ -42,6 +45,12 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
+* [PyCon Argentina] (http://ar.pycon.org) // [@pyconar] (https://twitter.com/pyconar)
+* [PyCon Brasil] (http://2014.pythonbrasil.org.br/) // [@pythonbrasil] (https://twitter.com/pythonbrasil)
+* [PyCon Uruguay] (http://uy.pycon.org) // [@pyconuy] (https://twitter.com/pyconuy)
+* [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
+* [RubyConf Brasil](http://www.rubyconf.com.br/) // [@rubyconfbr](https://twitter.com/rubyconfbr)
+* [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
 ###European
 * [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
@@ -63,6 +72,12 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [ng-europe](http://ngeurope.org/) // [@ngEurope](https://twitter.com/ngEurope)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
+* [dotJS](http://www.dotjs.io/) // [@dotJS](https://twitter.com/dotJS)
+* [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
+* [dotGo](http://www.dotgo.io/) // [@dotGoEu](https://twitter.com/dotGoEu)
+* [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
+* [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
+* [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 
 ###Asian
 * JSConf India [@jsconfin](https://twitter.com/jsconfin)
