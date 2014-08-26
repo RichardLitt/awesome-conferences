@@ -81,11 +81,11 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 
 ###Asian
-* JSConf India [@jsconfin](https://twitter.com/jsconfin)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
-* NodeConf India [@NodeConfin](https://twitter.com/NodeConfIn)
+* [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
+* [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
 
 ### Australian
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
