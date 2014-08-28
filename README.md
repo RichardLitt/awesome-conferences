@@ -31,6 +31,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
+* [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
 
 ####New York
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
