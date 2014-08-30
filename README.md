@@ -32,7 +32,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
-* [AlterConf](http://www.alterconf.com/) // [@AlterConf(https://twitter.com/alterconf)  
+* [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 
 ####New York
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
