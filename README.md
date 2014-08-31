@@ -33,6 +33,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
+* [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
 
 ####New York
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
