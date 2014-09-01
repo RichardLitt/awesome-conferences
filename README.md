@@ -34,6 +34,7 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
+* [Foss4g](https://2014.foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 
 ####New York
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
