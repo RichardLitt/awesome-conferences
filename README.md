@@ -35,6 +35,10 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
 * [Foss4g](https://2014.foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
+* [DEFCON](http://defcon.org) // [@_defcon_](https://twitter.com/_defcon_)
+* [JavaOne](https://www.oracle.com/javaone) // [@JavaOneConf](https://twitter.com/JavaOneConf)
+* [Google I/O](https://www.google.com/events/io) // [@googledevs](https://twitter.com/googledevs)
+* [Facebook f8](https://www.facebook.com/f8)
 
 ####New York
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
@@ -83,6 +87,8 @@ _Quick note: This was seeded initially from [@brittanystoroz's Twitter list](htt
 * [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
+* [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
+* [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 
 ###Asian
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
