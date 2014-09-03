@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "logfmt": "~1.1.2",
+    "express": "~4.4.5",
+    "mongodb": "~1.4.7",
+    "consolidate": "~0.10.0",
+    "path": "~0.4.9",
+    "jquery": "~2.1.1"
+  }
+}
