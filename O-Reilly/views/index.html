@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<title>O'Reilly Conferences</title>
+	<link rel="stylesheet" href="bower_components/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" href="http://cloud.github.com/downloads/lafeber/world-flags-sprite/flags16.css"/>
+	<link rel="stylesheet" href="css/style.css">
+</head>
+<body ng-app="conferencesApp">
+	<div class="container-fluid" ng-controller="confController">
+		<div class="info col-md-3 col-xs-12" style="text-align: center;">
+			<h2>O'Reilly Conferences</h2>
+			<div class="form-group">Search: <input ng-model="searchText"></div>
+			<h4>App built using Node + Angular</h4>
+			<h6>Developed by <a href="https://github.com/stephn-r">Stephen R.</a></h6>
+		</div>
+		<table class="col-md-9 col-xs-12 table-striped table-hover">
+			<thead>
+				<th width="300" ng-click="orderByField='name'; reverseSort = !reverseSort">Name<span class="glyphicon glyphicon-chevron-down"></span></th>
+				<th ng-click="orderByField='zone'; reverseSort = !reverseSort">Zone<span class="glyphicon glyphicon-chevron-down"></span></th>
+				<th ng-click="orderByField='topic'; reverseSort = !reverseSort">Topic<span class="glyphicon glyphicon-chevron-down"></span></th>
+				<th ng-click="orderByField='city'; reverseSort = !reverseSort" width="220">Location<span class="glyphicon glyphicon-chevron-down"></span></th>
+				<th ng-click="orderByField='start'; reverseSort = !reverseSort">Start<span class="glyphicon glyphicon-chevron-down"></span></th>
+				<th ng-click="orderByField='stop'; reverseSort = !reverseSort">Stop<span class="glyphicon glyphicon-chevron-down"></span></th>
+			</thead>
+			<tr ng-repeat="conference in conferences | filter:searchText | orderBy:orderByField:reverseSort">
+				<td class="name">
+					<a href="http://www.twitter.com/{{ conference.twitter }}" target="_blank"><img class="twitter" src="images/twitter.png" alt="Twitter"></a>
+					<a href="{{ conference.url }}">{{ conference.name }}</a>
+				</td>
+				<td class="zone f16">{{ conference.zone }}<span class="{{ conference.flags }}"></span></td>
+				<td class="topic">{{ conference.topic }}</td>
+				<td class="location"><a href="https://www.google.com/maps/place/{{ conference.city }},+{{ conference.country }}" target="_blank">{{ conference.city }}, {{ conference.country }}</a></td>
+				<td class="start">{{ conference.month_start }} {{ conference.day_start }}</td>
+				<td class="stop">{{ conference.month_end }} {{ conference.day_end }}</td>
+			</tr>
+		</table>
+	</div>
+	<script src="bower_components/jquery/dist/jquery.min.js"></script>
+	<script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+	<script src="bower_components/angular/angular.min.js"></script>
+	<script src="js/conferences.js"></script>
+	<script src="js/custom.js"></script>
+</body>
+</html>
