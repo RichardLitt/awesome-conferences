@@ -1,0 +1,71 @@
+body {
+	margin: 20px;
+	background-color: #FEFEFE;
+}
+
+h2 {
+	padding: 0 0 0 15px;
+	margin-top: 10px;
+}
+
+th {
+	cursor: pointer;
+	color: white;
+	padding-left: 10px;
+	text-align: left !important;
+	background-color: #00B16A;
+}
+
+th:hover {
+	-webkit-transition: all 0.3s ease;
+  -moz-transition: all 0.3s ease;
+  -ms-transition: all 0.3s ease;
+  -o-transition: all 0.3s ease;
+  transition: all 0.3s ease;
+	background-color: #1E824C;
+}
+
+tr {
+	height: 30px;
+	border-bottom: 1px solid rgba(0,0,0,0.1);
+}
+
+td {
+	padding-left: 10px;
+}
+
+.glyphicon:before {
+	font-size: 0.8em;
+	padding-left: 5px;
+}
+
+.twitter {
+	height: 20px;
+	width: 20px;
+	margin-right: 10px;
+}
+
+.flag {
+	position: relative;
+	top: 0;
+	left: 5px;
+}
+
+.info {
+	margin-top: 2%;
+	margin-bottom: 30px;
+}
+
+.info .form-group {
+	font-weight: bold;
+}
+
+.info .form-group input {
+	border: none;
+	color: white;
+	padding-left: 5px;
+	line-height: 30px;
+	height: 30px !important;
+	background-color: #1BBC9B;
+	border-radius: 5px;
+}
