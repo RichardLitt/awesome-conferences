@@ -3,7 +3,7 @@ Awesome Conferences
 
 A list of awesome conferences. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists thing.
 
-This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by @Stephn-R.
+This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R).
 
 ###North American
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
