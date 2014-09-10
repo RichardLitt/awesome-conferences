@@ -35,6 +35,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 * [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
 * [RealtimeConf](http://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
+* [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)  
 * [Space City JS](http://spacecityjs.com/) // [@SpaceCityJS](https://twitter.com/SpaceCityJS)
 * [Strange Loop Conf](https://thestrangeloop.com/) // [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
