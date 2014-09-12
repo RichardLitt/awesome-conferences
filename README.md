@@ -10,6 +10,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 * [CapitolJS](http://www.capitoljs.com/) // [@capitoljs](https://twitter.com/capitoljs)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
+* [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](http://defcon.org) // [@_defcon_](https://twitter.com/_defcon_)
 * [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
