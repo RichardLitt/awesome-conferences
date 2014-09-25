@@ -50,6 +50,7 @@ For starters, a [code of conduct](http://incisive.nu/2014/codes-of-conduct/). (T
 ####New York
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
+* [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
