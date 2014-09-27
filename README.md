@@ -3,13 +3,18 @@ Awesome Conferences
 
 A list of awesome conferences. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists thing.
 
-This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by @Stephn-R.
+This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R).
+
+_What makes a conference awesome?_ 
+
+For starters, a [code of conduct](http://incisive.nu/2014/codes-of-conduct/). (This list will grow)
 
 ###North American
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 * [CapitolJS](http://www.capitoljs.com/) // [@capitoljs](https://twitter.com/capitoljs)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
+* [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](http://defcon.org) // [@_defcon_](https://twitter.com/_defcon_)
 * [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
@@ -29,12 +34,14 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 * [nodeconf](http://nodeconf.com/) // [@nodeconf](https://twitter.com/nodeconf)
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
+* [O'Reilly Fluent](http://fluentconf.com) // [@fluentconf](https://twitter.com/fluentconf)
 * [O'Reilly Strata](http://strataconf.com/) // [@strataconf](https://twitter.com/strataconf)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
 * [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
 * [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
 * [RealtimeConf](http://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
+* [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)  
 * [Space City JS](http://spacecityjs.com/) // [@SpaceCityJS](https://twitter.com/SpaceCityJS)
 * [Strange Loop Conf](https://thestrangeloop.com/) // [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
@@ -43,6 +50,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 ####New York
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
+* [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
@@ -110,7 +118,6 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
-* [O'Reilly Fluent](http://fluentconf.com) // [@fluentconf](https://twitter.com/fluentconf)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
 * [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)

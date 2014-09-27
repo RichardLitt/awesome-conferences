@@ -1,7 +1,0 @@
-{
-  "dependencies": {
-    "logfmt": "~1.1.2",
-    "express": "~4.4.5",
-    "path": "~0.4.9"
-  }
-}
