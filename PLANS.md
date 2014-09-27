@@ -18,7 +18,7 @@ var Conferences = {
     'endDate': Date
     'duration': Int // Days
   },
-  'recurring': ['Weekly', 'Monthly', 'Annually'],
+  'recurring': ['Weekly', 'Monthly', 'Quarterly', 'Biannually', 'Annually', 'Semiannually'], // May be a better way of doing this.
   'location': {
     'city': String,
     'state': String // province
