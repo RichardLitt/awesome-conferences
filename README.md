@@ -76,6 +76,7 @@ For starters, a [code of conduct](http://incisive.nu/2014/codes-of-conduct/). (T
 * [copenhagenjs](http://copenhagenjs.dk/) // [@copenhagenjs](https://twitter.com/copenhagenjs)
 * [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
+* [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
 * [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
 * [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
 * [dotGo](http://www.dotgo.io/) // [@dotGoEu](https://twitter.com/dotGoEu)
