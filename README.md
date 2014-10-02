@@ -13,6 +13,7 @@ For starters, a [code of conduct](http://incisive.nu/2014/codes-of-conduct/). (T
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 * [CapitolJS](http://www.capitoljs.com/) // [@capitoljs](https://twitter.com/capitoljs)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
+* [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](http://defcon.org) // [@_defcon_](https://twitter.com/_defcon_)
