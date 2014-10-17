@@ -96,6 +96,7 @@ For starters, a [code of conduct](http://incisive.nu/2014/codes-of-conduct/). (T
 * [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
 * [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
+* [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
