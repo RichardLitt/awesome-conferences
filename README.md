@@ -51,6 +51,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [O'Reilly Strata](http://strataconf.com/) // [@strataconf](https://twitter.com/strataconf)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
 * [OpenWest](http://www.openwest.org/) // [@openwestconf](https://twitter.com/openwestconf)
+* [OSCON](http://www.oscon.com/open-source-2015) // [@oscon](https://twitter.com/oscon)
 * [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
 * [RealtimeConf](http://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
