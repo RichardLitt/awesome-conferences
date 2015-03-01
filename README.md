@@ -7,7 +7,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 
 ###What makes a conference awesome?
 
- * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitely mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on this, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces)
+ * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that lis [explicitely mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on this, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces)
  * A great line up of talks
  * A recurring schedule
  * Diversity; both in the talks and in the community who attend.
@@ -41,6 +41,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [jQuery Conference](http://events.jquery.org/2014/chicago/) // [@jqcon](https://twitter.com/jqcon)
 * [JSConf US](http://jsconf.us) // [@JSConfUS](https://twitter.com/JSConfUS)
 * [JSConf](http://jsconf.com) // [@jsconf](https://twitter.com/jsconf)
+* [LamdaConf](http://www.degoesconsulting.com/lambdaconf-2015/) // [@LambdaConf](https://twitter.com/lambda_conf)
 * [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
 * [MidwestJS](http://midwestjs.com/) // [@midwest_js](https://twitter.com/midwest_js)
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
