@@ -12,7 +12,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
  * A recurring schedule
  * Diversity; both in the talks and in the community who attend.
  * Grants for students and minorities.
- * [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc. 
+ * [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc.
  * Alcohol-free drink options
  * Quiet rooms and safe space
 
@@ -126,6 +126,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
+* [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ###Asian
