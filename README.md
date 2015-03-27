@@ -12,7 +12,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
  * A recurring schedule
  * Diversity; both in the talks and in the community who attend.
  * Grants for students and minorities.
- * [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc. 
+ * [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc.
  * Alcohol-free drink options
  * Quiet rooms and safe space
 
@@ -84,7 +84,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Front in Sampa](http://www.frontinsampa.com.br/) // [@frontinsp](https://twitter.com/frontinsp)
 * [Front Interior](http://www.frontinterior.com.br/) // [@frontinterior](https://twitter.com/frontinterior)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
-* [JSConf BR](jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
+* [JSConf BR](http://jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 * [PyCon Argentina](http://ar.pycon.org) // [@pyconar](https://twitter.com/pyconar)
@@ -115,7 +115,6 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
-* [JSConf BR](jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
 * [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
@@ -126,6 +125,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
+* [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ###Asian
