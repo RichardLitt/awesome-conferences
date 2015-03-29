@@ -97,6 +97,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
 ###European
+* [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
