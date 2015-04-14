@@ -21,7 +21,6 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 ###North American
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
-* [CapitolJS](http://www.capitoljs.com/) // [@capitoljs](https://twitter.com/capitoljs)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
 * [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
 * [CSSConf Oakland](http://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
