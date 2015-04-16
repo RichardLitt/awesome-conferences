@@ -43,6 +43,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [LamdaConf](http://www.degoesconsulting.com/lambdaconf-2015/) // [@LambdaConf](https://twitter.com/lambda_conf)
 * [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
 * [MidwestJS](http://midwestjs.com/) // [@midwest_js](https://twitter.com/midwest_js)
+* [NebraskaJS](http://nejsconf.com/) // [@nejsconf](https://twitter.com/nejsconf)
 * [ng-conf](http://www.ng-conf.org/) // [@ngconf](https://twitter.com/ngconf)
 * [nodeconf](http://nodeconf.com/) // [@nodeconf](https://twitter.com/nodeconf)
 * [Node Summit](nodesummit.com) // [@NodeSummit](https://twitter.com/NodeSummit)
