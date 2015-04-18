@@ -124,6 +124,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Munich JavaScript UF](http://www.munichjs.org/) // [@munichjs](https://twitter.com/munichjs)
 * [ng-europe](http://ngeurope.org/) // [@ngEurope](https://twitter.com/ngEurope)
 * [NodeConf Europe](http://nodeconfeu.com/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
+* [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
