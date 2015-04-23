@@ -19,6 +19,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 _Many of the links above are to Model View Culture's issue on events. I have linked them because, by and large, they are well written and exhaustive on the subject. I highly suggest reading [Model View Culture](http://modelviewculture.com/), if you haven't heard of it yet. Other articles and links are very, very welcome._
 
 ###North American
+* [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
