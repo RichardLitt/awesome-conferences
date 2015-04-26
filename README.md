@@ -7,7 +7,7 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 
 ###What makes a conference awesome?
 
- * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that lis [explicitely mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on this, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces)
+ * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on this, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces)
  * A great line up of talks
  * A recurring schedule
  * Diversity; both in the talks and in the community who attend.
