@@ -120,6 +120,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [JSConf BP](http://jsconfbp.com/) [@jsconfbp](https://twitter.com/jsconfbp)
 * [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
+* [JS Unconf](http://2015.jsunconf.eu/) // [@jsunconf](https://twitter.com/jsunconf)
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * [MoscowJS](http://moscowjs.ru/) // [@moscowjs](https://twitter.com/moscowjs)
 * [Munich JavaScript UF](http://www.munichjs.org/) // [@munichjs](https://twitter.com/munichjs)
