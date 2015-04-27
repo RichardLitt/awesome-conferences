@@ -103,6 +103,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
 * [copenhagenjs](http://copenhagenjs.dk/) // [@copenhagenjs](https://twitter.com/copenhagenjs)
 * [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
+* [Craft Conf](http://craft-conf.com/2015) // [@CraftConf](https://twitter.com/@CraftConf)
 * [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
 * [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
 * [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
