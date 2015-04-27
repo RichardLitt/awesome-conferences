@@ -39,8 +39,8 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
 * [JavaOne](https://www.oracle.com/javaone) // [@JavaOneConf](https://twitter.com/JavaOneConf)
 * [jQuery Conference](http://events.jquery.org/2014/chicago/) // [@jqcon](https://twitter.com/jqcon)
-* [JSConf US](http://jsconf.us) // [@JSConfUS](https://twitter.com/JSConfUS)
-* [JSConf](http://jsconf.com) // [@jsconf](https://twitter.com/jsconf)
+* [JSConf (All)](http://jsconf.com) // [@jsconf](https://twitter.com/jsconf)
+* [JSConf US](http://2015.jsconf.us/) // [@JSConfUS](https://twitter.com/JSConfUS)
 * [LamdaConf](http://www.degoesconsulting.com/lambdaconf-2015/) // [@LambdaConf](https://twitter.com/lambda_conf)
 * [LibrePlanet](http://libreplanet.org/wiki/LibrePlanet:Conference) // [@fsf](https://twitter.com/fsf)
 * [MidwestJS](http://midwestjs.com/) // [@midwest_js](https://twitter.com/midwest_js)
@@ -64,7 +64,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
-####New York
+###New York
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
 * [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
@@ -86,7 +86,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Front Interior](http://www.frontinterior.com.br/) // [@frontinterior](https://twitter.com/frontinterior)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
 * [JSConf BR](http://jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
-* [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
+* [JSConf Co](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 * [PyCon Argentina](http://ar.pycon.org) // [@pyconar](https://twitter.com/pyconar)
 * [PyCon Brasil](http://2014.pythonbrasil.org.br/) // [@pythonbrasil](https://twitter.com/pythonbrasil)
@@ -119,7 +119,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
 * [JSConf BP](http://jsconfbp.com/) [@jsconfbp](https://twitter.com/jsconfbp)
-* [JSConf EU](http://jsconf.eu) [@jsconfeu](https://twitter.com/jsconfeu)
+* [JSConf EU](http://2015.jsconf.eu/) [@jsconfeu](https://twitter.com/jsconfeu)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 * [JS Unconf](http://2015.jsunconf.eu/) // [@jsunconf](https://twitter.com/jsunconf)
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
@@ -141,7 +141,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 
-### Australian
+###Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
@@ -151,6 +151,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
+* [JSConf Budapest](http://jsconfbp.com/) // [@JSConfBP](https://twitter.com/jsconfbp)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
