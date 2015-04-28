@@ -87,7 +87,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Front Interior](http://www.frontinterior.com.br/) // [@frontinterior](https://twitter.com/frontinterior)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
 * [JSConf BR](http://jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
-* [JSConf Columbia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
+* [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 * [PyCon Argentina](http://ar.pycon.org) // [@pyconar](https://twitter.com/pyconar)
 * [PyCon Brasil](http://2014.pythonbrasil.org.br/) // [@pythonbrasil](https://twitter.com/pythonbrasil)
