@@ -152,7 +152,6 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
-* [JSConf Budapest](http://jsconfbp.com/) // [@JSConfBP](https://twitter.com/jsconfbp)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
