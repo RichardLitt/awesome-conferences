@@ -156,4 +156,5 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
+* [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
