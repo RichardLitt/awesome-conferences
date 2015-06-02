@@ -18,6 +18,19 @@ This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.
 
 _Many of the links above are to Model View Culture's issue on events. I have linked them because, by and large, they are well written and exhaustive on the subject. I highly suggest reading [Model View Culture](http://modelviewculture.com/), if you haven't heard of it yet. Other articles and links are very, very welcome._
 
+## Conferences
+
+* [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
+* [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
+* [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
+* [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
+* [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
+* [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
+* [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
+* [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
+* [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
+* [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
+
 ###North American
 * [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
@@ -146,15 +159,3 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
-
-###Miscellaneous
-* [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
-* [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
-* [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
-* [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
-* [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
-* [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
-* [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
-* [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
-* [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
-* [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
