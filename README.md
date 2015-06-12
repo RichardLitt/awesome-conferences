@@ -154,6 +154,8 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
+* [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
+* [Null Con India] (http://nullcon.net/website/) // [@nullcon] (https://twitter.com/nullcon)
 
 ###Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
