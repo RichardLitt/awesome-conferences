@@ -109,6 +109,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [RSJS](http://rsjs.org/) // [@rs_js](https://twitter.com/rs_js)
 * [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
 * [RubyConf Brasil](http://www.rubyconf.com.br/) // [@rubyconfbr](https://twitter.com/rubyconfbr)
+* [RubyConf Colombia](http://www.rubyconf.co/) // [@RubyConfCo](https://twitter.com/RubyConfCo)
 * [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
 ###European
