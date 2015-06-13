@@ -128,7 +128,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
 * [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
-* [eurucamp](https://euru.camp/) // [@EmberCamp](https://twitter.com/eurucamp)
+* [eurucamp](https://euru.camp/) // [@eurucamp](https://twitter.com/eurucamp)
 * [EuRuKo](https://euruko.org/) // [@euruko](https://twitter.com/euruko)
 * [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
