@@ -89,6 +89,7 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
+* [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](http://www.twitter.com/confcssbrasil)
 * [Front in Aracaju](http://www.frontinaracaju.com.br/) // [@frontinaracaju](https://twitter.com/frontinaracaju)
 * [Front in Bahia](http://www.frontinbahia.com.br/)
 * [Front in BH](http://frontinbh.com.br/) // [@frontinbh](https://twitter.com/frontinbh)
