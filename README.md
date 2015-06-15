@@ -166,3 +166,11 @@ _Many of the links above are to Model View Culture's issue on events. I have lin
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
+
+## Call for Speakers
+
+These sites list open calls for speakers.
+
+* [Call to Spekaers](https://calltospeakers.com/)
+* [Lanyrd.com](http://lanyrd.com/calls/)
+
