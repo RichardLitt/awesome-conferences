@@ -3,20 +3,18 @@ Awesome Conferences
 
 An awesome list of conferences. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists thing.
 
-This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R).
+_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
 
 ###What makes a conference awesome?
 
- * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on this, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces)
- * A great line up of talks
- * A recurring schedule
+ * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on why, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces).
+ * A great line up of talks.
+ * A recurring schedule.
  * Diversity; both in the talks and in the community who attend.
  * Grants for students and minorities.
  * [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc.
- * Alcohol-free drink options
- * Quiet rooms and safe space
-
-_Many of the links above are to Model View Culture's issue on events. I have linked them because, by and large, they are well written and exhaustive on the subject. I highly suggest reading [Model View Culture](http://modelviewculture.com/), if you haven't heard of it yet. Other articles and links are very, very welcome._
+ * Alcohol-free drink options.
+ * Quiet rooms and safe space.
 
 ## Conferences
 
