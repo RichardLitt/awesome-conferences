@@ -172,6 +172,10 @@ These sites list open calls for speakers.
 * [Call to Spekaers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
 
+## Other Lists
+
+* [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
+
 ## Resources
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
