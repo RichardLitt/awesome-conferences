@@ -131,6 +131,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [EuRuKo](https://euruko.org/) // [@euruko](https://twitter.com/euruko)
 * [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
+* [FSCONS](https://fscons.org/2015/) // [@fscons](https://twitter.com/fscons)
 * [FullStack Fest](http://www.fullstackfest.com/) // [@fullstackfest](https://twitter.com/fullstackfest)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 * [JRubyConf.EU](http://jrubyconf.eu) // [@jrubyconfeu](https://twitter.com/jrubyconfeu)
