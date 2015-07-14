@@ -36,6 +36,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
 * [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
+* [CppCon](http://cppcon.org/) // [@cppcon](https://twitter.com/cppcon)
 * [CSSConf Oakland](http://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
