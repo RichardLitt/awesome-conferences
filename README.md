@@ -21,6 +21,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
 * [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
+* [Future of Web Design](https://futureofwebdesign.com/) // [@FOWD](https://twitter.com/fowd)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
