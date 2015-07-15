@@ -1,0 +1,23 @@
+{
+	"passfail": false,
+	"bitwise": true,
+	"curly": true,
+	"devel": true,
+	"eqeqeq": true,
+	"forin": true,
+	"freeze": true,
+	"maxdepth": 3,
+	"nonew": true,
+	"strict": true,
+	"undef": true,
+	"unused": true,
+	"esnext": true,
+	"loopfunc": true,
+	"browser": true,
+	"devel": true,
+	"jasmine": true,
+	"jquery": true,
+	"mocha": true,
+	"node": true,
+	"predef": []
+}

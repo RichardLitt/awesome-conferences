@@ -1,0 +1,40 @@
+{
+  "name": "awesome-conferences",
+  "version": "1.0.0",
+  "description": "An awesome list of conferences",
+  "main": "main.js",
+  "scripts": {
+    "test": "karma start --single-run karma.conf.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RichardLitt/awesome-conferences.git"
+  },
+  "author": "Stephen Rodriguez <steprodriguez10@gmail.com> (http://www.stephenrodriguez.info/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RichardLitt/awesome-conferences/issues"
+  },
+  "homepage": "https://github.com/RichardLitt/awesome-conferences#readme",
+  "devDependencies": {
+    "babel": "^5.6.14",
+    "bower": "^1.4.1",
+    "browser-sync": "^2.7.13",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.3.1",
+    "gulp-load-plugins": "^0.10.0",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.0.1",
+    "gulp-sass": "^2.0.3",
+    "gulp-sourcemaps": "^1.5.2",
+    "gulp-util": "^3.0.6",
+    "jasmine-core": "^2.3.4",
+    "karma": "^0.12.37",
+    "karma-firefox-launcher": "^0.1.6",
+    "karma-jasmine": "^0.3.6",
+    "karma-mocha-reporter": "^1.0.2",
+    "karma-requirejs": "^0.2.2",
+    "pre-commit": "^1.0.10",
+    "requirejs": "^2.1.19"
+  }
+}
