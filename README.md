@@ -162,6 +162,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
 * [Null Con India] (http://nullcon.net/website/) // [@nullcon] (https://twitter.com/nullcon)
+* [FOSSASIA] (http://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
 
 ###Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
