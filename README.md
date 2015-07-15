@@ -32,7 +32,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 ###North American
 * [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
-* [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)  
+* [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
 * [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
@@ -71,7 +71,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [PyCon](http://us.pycon.org/) // [@pycon](https://twitter.com/pycon)
 * [RealtimeConf](http://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
-* [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)  
+* [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)
 * [Space City JS](http://spacecityjs.com/) // [@SpaceCityJS](https://twitter.com/SpaceCityJS)
 * [Strange Loop Conf](https://thestrangeloop.com/) // [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
@@ -85,7 +85,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
-* [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.tiwtter.com/WriteSpeakCode)  
+* [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.tiwtter.com/WriteSpeakCode)
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
@@ -161,7 +161,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
-* [Null Con India] (http://nullcon.net/website/) // [@nullcon] (https://twitter.com/nullcon)
+* [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
 
 ###Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
