@@ -85,7 +85,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
 * [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
-* [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.tiwtter.com/WriteSpeakCode)
+* [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
 
 ###South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
@@ -162,6 +162,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
 * [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
+* [FOSSASIA](http://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
 
 ###Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
