@@ -1,0 +1,831 @@
+---
+:name: BackboneConf
+:website: http://backboneconf.com/
+:twitter: ! '@backboneconf'
+:location: 
+:tags:
+- slug: has-code-of-conduct
+  name: Has Code of Conduct
+  url: http://something.com
+---
+:name: CSSConf
+:website: http://cssconf.com
+:twitter: ! '@CSSConf'
+:location: 
+:tags: 
+---
+:name: Future Insights
+:website: http://www.futureinsights.com/
+:twitter: ! '@Future_Insights'
+:location: 
+:tags: 
+---
+:name: Future of Web Design
+:website: https://futureofwebdesign.com/
+:twitter: ! '@FOWD'
+:location: 
+:tags: 
+---
+:name: JS CodeRetreat
+:website: http://jscoderetreat.com/
+:twitter: ! '@jsCodeRetreat'
+:location: 
+:tags: 
+---
+:name: JSFest
+:website: http://jsfest.com/
+:twitter: ! '@JavaScriptFest'
+:location: 
+:tags: 
+---
+:name: Medellin JS
+:website: http://medellinjs.org/
+:twitter: ! '@MedellinJS'
+:location: 
+:tags: 
+---
+:name: OpenVis Conf
+:website: http://openvisconf.com/
+:twitter: ! '@OpenVisConf'
+:location: 
+:tags: 
+---
+:name: Papers We Love
+:website: https://github.com/papers-we-love/papers-we-love
+:twitter: ! '@papers_we_love'
+:location: 
+:tags: 
+---
+:name: Science Hack Day
+:website: http://sciencehackday.org/
+:twitter: ! '@sciencehackday'
+:location: 
+:tags: 
+---
+:name: Web Rebels Conf
+:website: https://www.webrebels.org/
+:twitter: ! '@web_rebels'
+:location: 
+:tags: 
+---
+:name: ! '!!Con'
+:website: http://www.bangbangcon.com
+:twitter: ! '@bangbangcon'
+:location: North American
+:tags: 
+---
+:name: AlterConf
+:website: http://www.alterconf.com/
+:twitter: ! '@AlterConf'
+:location: North American
+:tags: 
+---
+:name: CakeFest
+:website: http://cakefest.org
+:twitter: ! '@cakephp'
+:location: North American
+:tags: 
+---
+:name: CascadiaJS
+:website: http://cascadiajs.com
+:twitter: ! '@CascadiaJS'
+:location: North American
+:tags: 
+---
+:name: Clojure/conj
+:website: http://clojure-conj.org/
+:twitter: ! '@clojure_conj'
+:location: North American
+:tags: 
+---
+:name: CppCon
+:website: http://cppcon.org/
+:twitter: ! '@cppcon'
+:location: North American
+:tags: 
+---
+:name: CSSConf Oakland
+:website: http://cssconfoak.land/
+:twitter: ! '@CSSConfOak'
+:location: North American
+:tags: 
+---
+:name: CSSDevConf
+:website: http://CSSdevconf.com/
+:twitter: ! '@CSSdevconf'
+:location: North American
+:tags: 
+---
+:name: DanceJS
+:website: http://dancejs.io/
+:twitter: ! '@oaklanddancejs'
+:location: North American
+:tags: 
+---
+:name: DEFCON
+:website: http://defcon.org
+:twitter: ! '@defcon'
+:location: North American
+:tags: 
+---
+:name: DjangoCon US
+:website: http://www.djangocon.us/
+:twitter: ! '@djangocon'
+:location: North American
+:tags: 
+---
+:name: Edge Conf
+:website: https://edgeconf.com
+:twitter: ! '@edgeconf'
+:location: North American
+:tags: 
+---
+:name: EmberConf
+:website: http://emberconf.com/
+:twitter: ! '@emberconf'
+:location: North American
+:tags: 
+---
+:name: Facebook f8
+:website: https://www.facebook.com/f8
+:twitter: 
+:location: North American
+:tags: 
+---
+:name: Forward JS
+:website: http://forwardjs.com/
+:twitter: ! '@forwardJS'
+:location: North American
+:tags: 
+---
+:name: Foss4g
+:website: https://2014.foss4g.org/
+:twitter: ! '@foss4g'
+:location: North American
+:tags: 
+---
+:name: Geospatial Canada
+:website: http://geospatialcanada.wbresearch.com/
+:twitter: ! '@GeospatialCan'
+:location: North American
+:tags: 
+---
+:name: Google I/O
+:website: https://www.google.com/events/io
+:twitter: ! '@googledevs'
+:location: North American
+:tags: 
+---
+:name: HTML5DevConf
+:website: http://html5devconf.com/
+:twitter: ! '@html5devconf'
+:location: North American
+:tags: 
+---
+:name: JavaOne
+:website: https://www.oracle.com/javaone
+:twitter: ! '@JavaOneConf'
+:location: North American
+:tags: 
+---
+:name: jQuery Conference
+:website: http://events.jquery.org/2014/chicago/
+:twitter: ! '@jqcon'
+:location: North American
+:tags: 
+---
+:name: JSConf (All)
+:website: http://jsconf.com
+:twitter: ! '@jsconf'
+:location: North American
+:tags: 
+---
+:name: JSConf US
+:website: http://2015.jsconf.us/
+:twitter: ! '@JSConfUS'
+:location: North American
+:tags: 
+---
+:name: LamdaConf
+:website: http://www.degoesconsulting.com/lambdaconf-2015/
+:twitter: ! '@LambdaConf'
+:location: North American
+:tags: 
+---
+:name: LibrePlanet
+:website: http://libreplanet.org/wiki/LibrePlanet:Conference
+:twitter: ! '@fsf'
+:location: North American
+:tags: 
+---
+:name: MidwestJS
+:website: http://midwestjs.com/
+:twitter: ! '@midwest_js'
+:location: North American
+:tags: 
+---
+:name: NCDevCon
+:website: http://ncdevcon.com/
+:twitter: ! '@ncdevcon'
+:location: North American
+:tags: 
+---
+:name: NebraskaJS
+:website: http://nejsconf.com/
+:twitter: ! '@nejsconf'
+:location: North American
+:tags: 
+---
+:name: ng-conf
+:website: http://www.ng-conf.org/
+:twitter: ! '@ngconf'
+:location: North American
+:tags: 
+---
+:name: nodeconf
+:website: http://nodeconf.com/
+:twitter: ! '@nodeconf'
+:location: North American
+:tags: 
+---
+:name: Node Summit
+:website: nodesummit.com
+:twitter: ! '@NodeSummit'
+:location: North American
+:tags: 
+---
+:name: Nodevember
+:website: http://nodevember.org/
+:twitter: ! '@nodevember'
+:location: North American
+:tags: 
+---
+:name: O’Reilly Fluent
+:website: http://fluentconf.com
+:twitter: ! '@fluentconf'
+:location: North American
+:tags: 
+---
+:name: O’Reilly Strata
+:website: http://strataconf.com/
+:twitter: ! '@strataconf'
+:location: North American
+:tags: 
+---
+:name: OaklandJS
+:website: http://oaklandjs.com/
+:twitter: ! '@oaklandjs'
+:location: North American
+:tags: 
+---
+:name: OpenWest
+:website: http://www.openwest.org/
+:twitter: ! '@openwestconf'
+:location: North American
+:tags: 
+---
+:name: OSCON
+:website: http://www.oscon.com/open-source-2015
+:twitter: ! '@oscon'
+:location: North American
+:tags: 
+---
+:name: PyCon
+:website: http://us.pycon.org/
+:twitter: ! '@pycon'
+:location: North American
+:tags: 
+---
+:name: RealtimeConf
+:website: http://realtimeconf.com/
+:twitter: ! '@RealtimeConf'
+:location: North American
+:tags: 
+---
+:name: RubyConf
+:website: http://rubyconf.org/
+:twitter: ! '@RubyConf'
+:location: North American
+:tags: 
+---
+:name: SassConf
+:website: http://sassconf.com/
+:twitter: ! '@SassConf'
+:location: North American
+:tags: 
+---
+:name: Space City JS
+:website: http://spacecityjs.com/
+:twitter: ! '@SpaceCityJS'
+:location: North American
+:tags: 
+---
+:name: Strange Loop Conf
+:website: https://thestrangeloop.com/
+:twitter: ! '@strangeloop_stl'
+:location: North American
+:tags: 
+---
+:name: Transhack
+:website: http://www.transhack.org/events/
+:twitter: ! '@TransH4CK'
+:location: North American
+:tags: 
+---
+:name: TXJS
+:website: http://texasjavascript.com
+:twitter: ! '@txjs'
+:location: North American
+:tags: 
+---
+:name: XOXO
+:website: http://2014.xoxofest.com/
+:twitter: ! '@xoxox'
+:location: North American
+:tags: 
+---
+:name: Brazil JS Conf
+:website: http://braziljs.com.br/
+:twitter: ! '@braziljs'
+:location: South American
+:tags: 
+---
+:name: Conference CSS Brazil
+:website: http://conferenciacssbrasil.com.br/
+:twitter: ! '@confcssbrasil'
+:location: South American
+:tags: 
+---
+:name: Front in Aracaju
+:website: http://www.frontinaracaju.com.br/
+:twitter: ! '@frontinaracaju'
+:location: South American
+:tags: 
+---
+:name: Front in Bahia
+:website: http://www.frontinbahia.com.br/
+:twitter: 
+:location: South American
+:tags: 
+---
+:name: Front in BH
+:website: http://frontinbh.com.br/
+:twitter: ! '@frontinbh'
+:location: South American
+:tags: 
+---
+:name: Front in Floripa
+:website: http://frontinfloripa.com.br/
+:twitter: ! '@FrontInFloripa'
+:location: South American
+:tags: 
+---
+:name: Front in Maceio
+:website: http://frontinmaceio.com.br/
+:twitter: ! '@frontinmaceio'
+:location: South American
+:tags: 
+---
+:name: Front in POA
+:website: http://frontinpoa.com.br/
+:twitter: ! '@frontinpoa'
+:location: South American
+:tags: 
+---
+:name: Front in Recife
+:website: http://frontinrecife.com.br/
+:twitter: ! '@frontinrecife'
+:location: South American
+:tags: 
+---
+:name: Front in Sampa
+:website: http://www.frontinsampa.com.br/
+:twitter: ! '@frontinsp'
+:location: South American
+:tags: 
+---
+:name: Front Interior
+:website: http://www.frontinterior.com.br/
+:twitter: ! '@frontinterior'
+:location: South American
+:tags: 
+---
+:name: JSConf Argentina
+:website: http://www.jsconfar.com/
+:twitter: ! '@jsconfar'
+:location: South American
+:tags: 
+---
+:name: JSConf BR
+:website: http://jsconfbr.org
+:twitter: ! '@jsconfbr'
+:location: South American
+:tags: 
+---
+:name: JSConf Colombia
+:website: http://jsconf.co/
+:twitter: ! '@jsconfco'
+:location: South American
+:tags: 
+---
+:name: JSConf Uruguay
+:website: http://jsconf.uy/
+:twitter: ! '@JSConfUY'
+:location: South American
+:tags: 
+---
+:name: PyCon Argentina
+:website: http://ar.pycon.org
+:twitter: ! '@pyconar'
+:location: South American
+:tags: 
+---
+:name: PyCon Brasil
+:website: http://2014.pythonbrasil.org.br/
+:twitter: ! '@pythonbrasil'
+:location: South American
+:tags: 
+---
+:name: PyCon Uruguay
+:website: http://uy.pycon.org
+:twitter: ! '@pyconuy'
+:location: South American
+:tags: 
+---
+:name: Rio.JS
+:website: http://riojs.org/
+:twitter: ! '@riodejaneirojs'
+:location: South American
+:tags: 
+---
+:name: RSJS
+:website: http://rsjs.org/
+:twitter: ! '@rs_js'
+:location: South American
+:tags: 
+---
+:name: RubyConf Argentina
+:website: http://rubyconfargentina.org/
+:twitter: ! '@rubyconfAR'
+:location: South American
+:tags: 
+---
+:name: RubyConf Brasil
+:website: http://www.rubyconf.com.br/
+:twitter: ! '@rubyconfbr'
+:location: South American
+:tags: 
+---
+:name: RubyConf Colombia
+:website: http://www.rubyconf.co/
+:twitter: ! '@RubyConfCo'
+:location: South American
+:tags: 
+---
+:name: Tableless Conference
+:website: http://tableless.com.br/tablelessconf/
+:twitter: ! '@tableless'
+:location: South American
+:tags: 
+---
+:name: Beyond Tellerrand
+:website: http://beyondtellerrand.com
+:twitter: ! '@btconf'
+:location: European
+:tags: 
+---
+:name: British Node Conf
+:website: http://greatbritishnodeconf.co.uk/
+:twitter: ! '@britishnodeconf'
+:location: European
+:tags: 
+---
+:name: coldfrontconf
+:website: http://coldfrontconf.com/
+:twitter: ! '@coldfrontconf'
+:location: European
+:tags: 
+---
+:name: copenhagenjs
+:website: http://copenhagenjs.dk/
+:twitter: ! '@copenhagenjs'
+:location: European
+:tags: 
+---
+:name: Cornerstone
+:website: http://www.cornerstone.se/
+:twitter: ! '@cornerstone'
+:location: European
+:tags: 
+---
+:name: Craft Conf
+:website: http://craft-conf.com/2015
+:twitter: ! '@CraftConf'
+:location: European
+:tags: 
+---
+:name: CSSconf EU
+:website: http://cssconf.eu
+:twitter: ! '@CSSconfeu'
+:location: European
+:tags: 
+---
+:name: Decentralize Camp
+:website: http://decentralizecamp.com/
+:twitter: ! '@decentamp'
+:location: European
+:tags: 
+---
+:name: Devoxx
+:website: http://www.devoxx.com/
+:twitter: ! '@Devoxx'
+:location: European
+:tags: 
+---
+:name: dotCSS
+:website: http://www.dotcss.io/
+:twitter: ! '@dotCSS'
+:location: European
+:tags: 
+---
+:name: dotGo
+:website: http://www.dotgo.io/
+:twitter: ! '@dotGoEu'
+:location: European
+:tags: 
+---
+:name: dotJS
+:website: http://www.dotjs.io/
+:twitter: ! '@dotJS'
+:location: European
+:tags: 
+---
+:name: dotScale
+:website: http://www.dotscale.io/
+:twitter: ! '@dotScale'
+:location: European
+:tags: 
+---
+:name: dotSwift
+:website: http://www.dotswift.io/
+:twitter: ! '@dotSwift_io'
+:location: European
+:tags: 
+---
+:name: Ember Fest
+:website: https://emberfest.eu/
+:twitter: ! '@EmberFest'
+:location: European
+:tags: 
+---
+:name: eurucamp
+:website: https://euru.camp/
+:twitter: ! '@eurucamp'
+:location: European
+:tags: 
+---
+:name: EuRuKo
+:website: https://euruko.org/
+:twitter: ! '@euruko'
+:location: European
+:tags: 
+---
+:name: FOSDEM
+:website: https://fosdem.org/2015/
+:twitter: ! '@fosdem'
+:location: European
+:tags: 
+---
+:name: Front-Trends
+:website: http://front-trends.com/
+:twitter: ! '@fronttrends'
+:location: European
+:tags: 
+---
+:name: FSCONS
+:website: https://fscons.org/2015/
+:twitter: ! '@fscons'
+:location: European
+:tags: 
+---
+:name: FullStack Fest
+:website: http://www.fullstackfest.com/
+:twitter: ! '@fullstackfest'
+:location: European
+:tags: 
+---
+:name: JavaZone
+:website: http://javazone.no
+:twitter: ! '@JavaZone'
+:location: European
+:tags: 
+---
+:name: JRubyConf.EU
+:website: http://jrubyconf.eu
+:twitter: ! '@jrubyconfeu'
+:location: European
+:tags: 
+---
+:name: JS Italian Conf
+:website: http://2014.jsday.it/
+:twitter: ! '@jsconfit'
+:location: European
+:tags: 
+---
+:name: JSConf BP
+:website: http://jsconfbp.com/
+:twitter: ! '@jsconfbp'
+:location: European
+:tags: 
+---
+:name: JSConf EU
+:website: http://2015.jsconf.eu/
+:twitter: ! '@jsconfeu'
+:location: European
+:tags: 
+---
+:name: jsist
+:website: http://jsist.org/
+:twitter: ! '@jsistorg'
+:location: European
+:tags: 
+---
+:name: JS Unconf
+:website: http://2015.jsunconf.eu/
+:twitter: ! '@jsunconf'
+:location: European
+:tags: 
+---
+:name: LXJS
+:website: http://lxjs.org
+:twitter: ! '@LXJS'
+:location: European
+:tags: 
+---
+:name: MoscowJS
+:website: http://moscowjs.ru/
+:twitter: ! '@moscowjs'
+:location: European
+:tags: 
+---
+:name: Munich JavaScript UF
+:website: http://www.munichjs.org/
+:twitter: ! '@munichjs'
+:location: European
+:tags: 
+---
+:name: ng-europe
+:website: http://ngeurope.org/
+:twitter: ! '@ngEurope'
+:location: European
+:tags: 
+---
+:name: NodeConf Europe
+:website: http://nodeconfeu.com/
+:twitter: ! '@nodeconfeu'
+:location: European
+:tags: 
+---
+:name: ReactEurope
+:website: http://www.react-europe.org
+:twitter: ! '@ReactEurope'
+:location: European
+:tags: 
+---
+:name: RealtimeConf EU
+:website: http://realtimeconf.eu/
+:twitter: ! '@RealtimeConfEu'
+:location: European
+:tags: 
+---
+:name: Reject.JS
+:website: http://rejectjs.org/
+:twitter: ! '@RejectJS'
+:location: European
+:tags: 
+---
+:name: Rubyslava
+:website: http://rubyslava.sk/english.html
+:twitter: ! '@rubyslava'
+:location: European
+:tags: 
+---
+:name: ScotlandJS
+:website: http://scotlandjs.com/
+:twitter: ! '@ScotlandJS'
+:location: European
+:tags: 
+---
+:name: WebExpo
+:website: http://www.webexpo.cz/
+:twitter: ! '@webexpo'
+:location: European
+:tags: 
+---
+:name: Jing JS (京JS)
+:website: http://jsconf.cn
+:twitter: ! '@jingjsconf'
+:location: Asian
+:tags: 
+---
+:name: JSConf Asia
+:website: http://jsconf.asia
+:twitter: ! '@jsconfasia'
+:location: Asian
+:tags: 
+---
+:name: JSDC
+:website: http://jsdc.tw/
+:twitter: ! '@jsdc_tw'
+:location: Asian
+:tags: 
+---
+:name: JSFoo India
+:website: https://jsfoo.in/
+:twitter: ! '@jsfooindia'
+:location: Asian
+:tags: 
+---
+:name: NodeConf India
+:website: http://www.nodeconf.in/
+:twitter: ! '@NodeConfin'
+:location: Asian
+:tags: 
+---
+:name: PyCon India
+:website: https://in.pycon.org/
+:twitter: ! '@pyconindia'
+:location: Asian
+:tags: 
+---
+:name: Null Con India
+:website: http://nullcon.net/website/
+:twitter: ! '@nullcon'
+:location: Asian
+:tags: 
+---
+:name: CampJS
+:website: http://campjs.com/
+:twitter: ! '@campjsnews'
+:location: Australian
+:tags: 
+---
+:name: CSSConf Australia
+:website: http://cssconf.com.au
+:twitter: ! '@cssconfau'
+:location: Australian
+:tags: 
+---
+:name: JSConfAU
+:website: http://au.jsconf.com/
+:twitter: ! '@JSConfAU'
+:location: Australian
+:tags: 
+---
+:name: BrooklynJS
+:website: http://brooklynjs.com/
+:twitter: ! '@brooklyn_js'
+:location: New York
+:tags: 
+---
+:name: EmpireJS
+:website: http://empirejs.org
+:twitter: ! '@EmpireJS'
+:location: New York
+:tags: 
+---
+:name: EmpireNode
+:website: http://empirenode.org/
+:twitter: ! '@empirenode'
+:location: New York
+:tags: 
+---
+:name: manhattan.js
+:website: http://manhattanjs.com/
+:twitter: ! '@manhattan_js'
+:location: New York
+:tags: 
+---
+:name: NYC HTML5
+:website: http://www.nychtml5.com/
+:twitter: ! '@NYCHTML5'
+:location: New York
+:tags: 
+---
+:name: QueensJS
+:website: http://www.meetup.com/QueensJS/
+:twitter: ! '@queens_js'
+:location: New York
+:tags: 
+---
+:name: WriteSpeakCode Workshop
+:website: http://www.writespeakcode.com/workshop.html
+:twitter: ! '@WriteSpeakCode'
+:location: New York
+:tags: 
+---
+:name: FOSSASIA
+:website: http://fossasia.org/
+:twitter: ! '@fossasia'
+:location: Asian
+:tags: 
