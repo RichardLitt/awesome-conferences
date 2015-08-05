@@ -5,7 +5,7 @@ An awesome list of conferences. Inspired by the [awesome](https://github.com/sin
 
 _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
 
-###What makes a conference awesome?
+### What makes a conference awesome?
 
  * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on why, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces).
  * A great line up of talks.
@@ -30,7 +30,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
 
-###North American
+### North American
 * [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
@@ -78,7 +78,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
-####New York
+#### New York
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
 * [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
@@ -87,7 +87,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
 * [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
 
-###South American
+### South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
 * [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](http://www.twitter.com/confcssbrasil)
 * [Front in Aracaju](http://www.frontinaracaju.com.br/) // [@frontinaracaju](https://twitter.com/frontinaracaju)
@@ -113,7 +113,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [RubyConf Colombia](http://www.rubyconf.co/) // [@RubyConfCo](https://twitter.com/RubyConfCo)
 * [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
-###European
+### European
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
@@ -154,7 +154,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
-###Asian
+### Asian
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
@@ -164,7 +164,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
 * [FOSSASIA](http://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
 
-###Australian
+### Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
