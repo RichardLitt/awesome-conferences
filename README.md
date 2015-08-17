@@ -164,6 +164,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
 * [FOSSASIA](http://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
 * [PyCon Taiwan](https://tw.pycon.org/) // [@PyConTW](https://twitter.com/pycontw)
+* [FUDCON India](http://fudcon.in/) // [@fudconin](https://twitter.com/fudconin)
 
 ### Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
