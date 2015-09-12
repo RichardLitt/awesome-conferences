@@ -28,7 +28,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [OpenVis Conf](http://openvisconf.com/) // [@OpenVisConf](https://twitter.com/OpenVisConf)
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
-* [Symfony Live](http://live.symfony.com/) // [Symfony Live](https://twitter.com/symfony_live)
+* [Symfony Live](http://live.symfony.com/) // [@symfony_live](https://twitter.com/symfony_live)
 * [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
 
 ### North American
