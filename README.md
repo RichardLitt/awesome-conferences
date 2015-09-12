@@ -186,6 +186,7 @@ These sites list open calls for speakers.
 ## Resources
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+* [awesome-community](https://github.com/peterkokot/awesome-community)
 
 ## License
 
