@@ -77,6 +77,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Strange Loop Conf](https://thestrangeloop.com/) // [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
+* [Write/Speak/Code Conference](http://www.writespeakcode.com/conference/) // [@WriteSpeakCode](https://twitter.com/writespeakcode)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
 #### New York
