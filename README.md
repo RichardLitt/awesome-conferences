@@ -118,6 +118,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 ### European
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
+* [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
 * [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
 * [container.camp](https://container.camp/) // [@containercamp](https://twitter.com/containercamp)
 * [copenhagenjs](http://copenhagenjs.dk/) // [@copenhagenjs](https://twitter.com/copenhagenjs)
