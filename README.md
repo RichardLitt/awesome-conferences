@@ -185,6 +185,12 @@ These sites list open calls for speakers.
 ## Other Lists
 
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
+* [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
+* [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
+* [Interdisciplinary Open Source Community Conferences](https://gist.github.com/maxogden/322a649ff84fe1c2a680) by [@maxogden](https://github.com/maxogden).
+* [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
+* [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
+* [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 
 ## Resources
 
