@@ -189,6 +189,7 @@ These sites list open calls for speakers.
 ## Resources
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+* [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ## License
 
