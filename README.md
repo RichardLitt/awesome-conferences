@@ -153,6 +153,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [NodeConf Europe](http://nodeconfeu.com/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
 * [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
+* [Redecentralize](http://redecentralize.org/) // [@redecentralize](https://twitter.com/redecentralize)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
