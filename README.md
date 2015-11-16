@@ -133,6 +133,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [dotScale](http://www.dotscale.io/) // [@dotScale](https://twitter.com/dotScale)
 * [dotSwift](http://www.dotswift.io/) // [@dotSwift_io](https://twitter.com/dotSwift_io)
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
+* [Ethereum Devcon](https://devcon.ethereum.org/) // [@ethereumproject](https://twitter.com/ethereumproject)
 * [eurucamp](https://euru.camp/) // [@eurucamp](https://twitter.com/eurucamp)
 * [EuRuKo](https://euruko.org/) // [@euruko](https://twitter.com/euruko)
 * [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
