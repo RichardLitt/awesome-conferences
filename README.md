@@ -162,6 +162,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ### Asian
+* [COSCUP](http://coscup.org/) // [@coscup](https://twitter.com/coscup)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
