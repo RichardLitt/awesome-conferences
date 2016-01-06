@@ -117,6 +117,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
 ### European
+* [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
@@ -172,6 +173,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [FOSSASIA](http://fossasia.org/) // [@fossasia](https://twitter.com/fossasia)
 * [PyCon Taiwan](https://tw.pycon.org/) // [@PyConTW](https://twitter.com/pycontw)
 * [FUDCON India](http://fudcon.in/) // [@fudconin](https://twitter.com/fudconin)
+* [RubyConf India](http://rubyconfindia.org/) // [@rubyconfindia](https://twitter.com/rubyconfindia)
 
 ### Australian
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
