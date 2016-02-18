@@ -43,6 +43,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](http://defcon.org) // [@_defcon_](https://twitter.com/_defcon_)
+* [DinosaurJS](http://dinosaurjs.org/) // [@dinosaur_js](https://twitter.com/dinosaur_js)
 * [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
 * [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
@@ -126,6 +127,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * [Craft Conf](http://craft-conf.com/2015) // [@CraftConf](https://twitter.com/@CraftConf)
 * [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
+* [csv,conf](http://csvconf.com/) // [@CSVConference](https://twitter.com/CSVConference)
 * [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
 * [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
 * [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
@@ -146,6 +148,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
 * [JSConf BP](http://jsconfbp.com/) [@jsconfbp](https://twitter.com/jsconfbp)
 * [JSConf EU](http://2015.jsconf.eu/) [@jsconfeu](https://twitter.com/jsconfeu)
+* [JSConf Iceland](http://2016.jsconf.is) // [@jsconfis](https://twitter.com/jsconfis)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 * [JS Unconf](http://2015.jsunconf.eu/) // [@jsunconf](https://twitter.com/jsunconf)
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
@@ -159,6 +162,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
+* [Squatconf](http://squatconf.eu/) // [@squatconf](https://twitter.com/squatconf)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ### Asian
