@@ -142,6 +142,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 * [FSCONS](https://fscons.org/2015/) // [@fscons](https://twitter.com/fscons)
 * [FullStack Fest](http://www.fullstackfest.com/) // [@fullstackfest](https://twitter.com/fullstackfest)
+* [GreachConf](http://greachconf.com/) // [@greachconf](https://twitter.com/greachconf)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
 * [JRubyConf.EU](http://jrubyconf.eu) // [@jrubyconfeu](https://twitter.com/jrubyconfeu)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
@@ -184,7 +185,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 These sites list open calls for speakers.
 
-* [Call to Spekaers](https://calltospeakers.com/)
+* [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
 
 ## Other Lists
@@ -207,4 +208,3 @@ These sites list open calls for speakers.
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
-
