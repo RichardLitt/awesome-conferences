@@ -107,7 +107,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 * [PyCon Argentina](http://ar.pycon.org) // [@pyconar](https://twitter.com/pyconar)
 * [PyCon Brasil](http://2014.pythonbrasil.org.br/) // [@pythonbrasil](https://twitter.com/pythonbrasil)
-* [PyCon Uruguay](http://uy.pycon.org) // [@pyconuy](https://twitter.com/pyconuy)
 * [Rio.JS](http://riojs.org/) // [@riodejaneirojs](https://twitter.com/riodejaneirojs)
 * [RSJS](http://rsjs.org/) // [@rs_js](https://twitter.com/rs_js)
 * [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
