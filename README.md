@@ -135,7 +135,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
 * [Ethereum Devcon](https://devcon.ethereum.org/) // [@ethereumproject](https://twitter.com/ethereumproject)
 * [eurucamp](https://euru.camp/) // [@eurucamp](https://twitter.com/eurucamp)
-* [EuRuKo](https://euruko.org/) // [@euruko](https://twitter.com/euruko)
+* [EuRuKo](http://euruko.org/) // [@euruko](https://twitter.com/euruko)
 * [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
 * [Front-Trends](http://front-trends.com/) // [@fronttrends](https://twitter.com/fronttrends)
 * [FSCONS](https://fscons.org/2015/) // [@fscons](https://twitter.com/fscons)
