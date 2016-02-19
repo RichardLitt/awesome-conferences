@@ -87,7 +87,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
 * [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
 * [manhattan.js](http://manhattanjs.com/) // [@manhattan_js](https://twitter.com/manhattan_js)
-* [NYC HTML5](http://www.nychtml5.com/) // [@NYCHTML5](https://twitter.com/NYCHTML5)
 * [QueensJS](http://www.meetup.com/QueensJS/) // [@queens_js](https://twitter.com/queens_js)
 * [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
 
