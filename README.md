@@ -20,6 +20,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 * [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
 * [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
+* [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [Future of Web Design](https://futureofwebdesign.com/) // [@FOWD](https://twitter.com/fowd)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -49,7 +50,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
 * [Facebook f8](https://www.facebook.com/f8)
 * [Forward JS](http://forwardjs.com/) // [@forwardJS](https://twitter.com/forwardJS/)
-* [Foss4g](https://2014.foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Geospatial Canada](http://geospatialcanada.wbresearch.com/) // [@GeospatialCan](https://twitter.com/GeospatialCan)
 * [Google I/O](https://www.google.com/events/io) // [@googledevs](https://twitter.com/googledevs)
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
