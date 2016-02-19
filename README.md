@@ -100,7 +100,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Front in POA](http://frontinpoa.com.br/) // [@frontinpoa](https://twitter.com/frontinpoa)
 * [Front in Recife](http://frontinrecife.com.br/) // [@frontinrecife](https://twitter.com/frontinrecife)
 * [Front in Sampa](http://www.frontinsampa.com.br/) // [@frontinsp](https://twitter.com/frontinsp)
-* [Front Interior](http://www.frontinterior.com.br/) // [@frontinterior](https://twitter.com/frontinterior)
 * [JSConf Argentina](http://www.jsconfar.com/) // [@jsconfar](https://twitter.com/jsconfar)
 * [JSConf BR](http://jsconfbr.org) // [@jsconfbr](https://twitter.com/jsconfbr)
 * [JSConf Colombia](http://jsconf.co/) // [@jsconfco](https://twitter.com/jsconfco)
