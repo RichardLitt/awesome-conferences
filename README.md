@@ -96,7 +96,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Front in Aracaju](http://www.frontinaracaju.com.br/) // [@frontinaracaju](https://twitter.com/frontinaracaju)
 * [Front in Bahia](http://www.frontinbahia.com.br/)
 * [Front in BH](http://frontinbh.com.br/) // [@frontinbh](https://twitter.com/frontinbh)
-* [Front in Floripa](http://frontinfloripa.com.br/) // [@FrontInFloripa](https://twitter.com/FrontInFloripa)
 * [Front in Maceio](http://frontinmaceio.com.br/) // [@frontinmaceio](https://twitter.com/frontinmaceio)
 * [Front in POA](http://frontinpoa.com.br/) // [@frontinpoa](https://twitter.com/frontinpoa)
 * [Front in Recife](http://frontinrecife.com.br/) // [@frontinrecife](https://twitter.com/frontinrecife)
