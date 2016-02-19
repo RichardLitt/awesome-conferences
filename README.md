@@ -42,7 +42,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [CSSConf Oakland](http://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
-* [DEFCON](http://defcon.org) // [@_defcon_](https://twitter.com/_defcon_)
+* [DEFCON](https://defcon.org/) // [@_defcon_](https://twitter.com/_defcon_)
 * [DinosaurJS](http://dinosaurjs.org/) // [@dinosaur_js](https://twitter.com/dinosaur_js)
 * [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
