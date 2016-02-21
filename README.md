@@ -198,6 +198,7 @@ These sites list open calls for speakers.
 * [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
+* [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
 
 ## Resources
 
