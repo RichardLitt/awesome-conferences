@@ -18,6 +18,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 ## Conferences
 
+* [Awwwards Conference](http://conference.awwwards.com) // [@awwwardsNYC](https://twitter.com/awwwardsNYC)
 * [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
 * [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
