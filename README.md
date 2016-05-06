@@ -47,6 +47,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [DEFCON](https://defcon.org/) // [@_defcon_](https://twitter.com/_defcon_)
 * [DinosaurJS](http://dinosaurjs.org/) // [@dinosaur_js](https://twitter.com/dinosaur_js)
 * [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
+* [Dockerconf](http://2016.dockercon.com/) // [@dockercon](https://twitter.com/dockercon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
 * [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
 * [Facebook f8](https://www.facebook.com/f8)
