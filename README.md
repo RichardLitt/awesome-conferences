@@ -23,7 +23,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
-* [Future of Web Design](https://futureofwebdesign.com/) // [@FOWD](https://twitter.com/fowd)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
 * [JSFest](http://jsfest.com/) // [@JavaScriptFest](https://twitter.com/JavaScriptFest)
 * [Medellin JS](http://medellinjs.org/) // [@MedellinJS](https://twitter.com/MedellinJS)
@@ -108,7 +107,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [JSConf Uruguay](http://jsconf.uy/) // [@JSConfUY](https://twitter.com/JSConfUY)
 * [PyCon Argentina](http://ar.pycon.org) // [@pyconar](https://twitter.com/pyconar)
 * [PyCon Brasil](http://2014.pythonbrasil.org.br/) // [@pythonbrasil](https://twitter.com/pythonbrasil)
-* [Rio.JS](http://riojs.org/) // [@riodejaneirojs](https://twitter.com/riodejaneirojs)
 * [RSJS](http://rsjs.org/) // [@rs_js](https://twitter.com/rs_js)
 * [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
 * [RubyConf Brasil](http://www.rubyconf.com.br/) // [@rubyconfbr](https://twitter.com/rubyconfbr)
@@ -163,7 +161,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
-* [Squatconf](http://squatconf.eu/) // [@squatconf](https://twitter.com/squatconf)
+* [Squatconf](http://squatconf.eu/)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ### Asian
