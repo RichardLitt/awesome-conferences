@@ -153,7 +153,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * [MoscowJS](http://moscowjs.ru/) // [@moscowjs](https://twitter.com/moscowjs)
 * [Munich JavaScript UF](http://www.munichjs.org/) // [@munichjs](https://twitter.com/munichjs)
-* [ng-europe](http://ngeurope.org/) // [@ngEurope](https://twitter.com/ngEurope)
+* [ng-europe](https://ngeurope.org) // [@ngEurope](https://twitter.com/ngEurope)
 * [NodeConf Europe](http://nodeconfeu.com/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
 * [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
