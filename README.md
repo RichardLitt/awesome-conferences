@@ -161,6 +161,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
+* [SFK](http://sfk.flossk.org/) // [@FLOSSKosova](https://twitter.com/flosskosova)
 * [Squatconf](http://squatconf.eu/)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
