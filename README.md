@@ -76,6 +76,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [RealtimeConf](http://realtimeconf.com/) // [@RealtimeConf](https://twitter.com/RealtimeConf)
 * [RubyConf](http://rubyconf.org/) // [@RubyConf](https://twitter.com/rubyconf)
 * [SassConf](http://sassconf.com/) // [@SassConf](https://twitter.com/sassconf)
+* [Self Conference](http://selfconference.org/) // [@selfconference](https://twitter.com/selfconference)
 * [Space City JS](http://spacecity.codes/) // [@SpaceCityConfs](https://twitter.com/SpaceCityConfs)
 * [Strange Loop Conf](https://thestrangeloop.com/) // [@strangeloop_stl](https://twitter.com/strangeloop_stl)
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
