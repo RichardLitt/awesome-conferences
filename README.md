@@ -20,7 +20,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 * [Awwwards Conference](http://conference.awwwards.com) // [@awwwardsNYC](https://twitter.com/awwwardsNYC)
 * [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
-* [CSSConf](http://cssconf.com) // [@CSSConf](https://twitter.com/CSSConf)
+* [CSSConf](http://cssconf.org)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -41,6 +41,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
 * [CppCon](http://cppcon.org/) // [@cppcon](https://twitter.com/cppcon)
 * [CSSConf Oakland](http://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
+* [CSSConf US](http://cssconf.com) // [@CSSConf US](https://twitter.com/CSSConf)
 * [CSSDevConf](http://CSSdevconf.com/) // [@CSSdevconf](https://twitter.com/CSSdevconf)
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](https://defcon.org/) // [@_defcon_](https://twitter.com/_defcon_)
@@ -95,6 +96,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 ### South American
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
 * [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](http://www.twitter.com/confcssbrasil)
+* [CSSConf Argentina](http://cssconfar.com) // [@Css_Conf_AR](https://twitter.com/Css_Conf_AR)
 * [Front in Aracaju](http://www.frontinaracaju.com.br/) // [@frontinaracaju](https://twitter.com/frontinaracaju)
 * [Front in Bahia](http://www.frontinbahia.com.br/)
 * [Front in BH](http://frontinbh.com.br/) // [@frontinbh](https://twitter.com/frontinbh)
@@ -124,7 +126,9 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [copenhagenjs](http://copenhagenjs.dk/) // [@copenhagenjs](https://twitter.com/copenhagenjs)
 * [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * [Craft Conf](http://craft-conf.com/2015) // [@CraftConf](https://twitter.com/@CraftConf)
+* [CSSconf Budapest](http://cssconfbp.rocks/) // [@cssconfbudapest](https://twitter.com/cssconfbudapest)
 * [CSSconf EU](http://cssconf.eu) // [@CSSconfeu](https://twitter.com/CSSconfeu)
+* [CSSconf Nordic](http://cssconf.no/) // [@cssconfno](https://twitter.com/cssconfno)
 * [csv,conf](http://csvconf.com/) // [@CSVConference](https://twitter.com/CSVConference)
 * [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
 * [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
@@ -168,6 +172,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ### Asian
+* [CSSConf Asia](http://cssconf.asia/) // [@CSSconfasia](https://twitter.com/cssconfasia)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
