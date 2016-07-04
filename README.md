@@ -155,6 +155,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [JSConf Iceland](http://2016.jsconf.is) // [@jsconfis](https://twitter.com/jsconfis)
 * [jsist](http://jsist.org/) // [@jsistorg](https://twitter.com/jsistorg)
 * [JS Unconf](http://2015.jsunconf.eu/) // [@jsunconf](https://twitter.com/jsunconf)
+* [HumanTalks](http://humantalks.com/) // [@humantalks](https://twitter.com/HumanTalks)
 * [LXJS](http://lxjs.org) // [@LXJS](https://twitter.com/lxjs)
 * [MoscowJS](http://moscowjs.ru/) // [@moscowjs](https://twitter.com/moscowjs)
 * [Munich JavaScript UF](http://www.munichjs.org/) // [@munichjs](https://twitter.com/munichjs)
