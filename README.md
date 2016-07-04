@@ -161,6 +161,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [ng-europe](https://ngeurope.org) // [@ngEurope](https://twitter.com/ngEurope)
 * [oscal](http://oscal.openlabs.cc) // [@openlabsalbania](https://twitter.com/openlabsalbania)
 * [NodeConf Europe](http://www.nodeconf.eu/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
+* [Paris-Web](http://www.paris-web.fr/) // [@parisweb](https://twitter.com/ParisWeb)
 * [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Redecentralize](http://redecentralize.org/) // [@redecentralize](https://twitter.com/redecentralize)
