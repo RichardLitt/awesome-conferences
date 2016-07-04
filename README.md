@@ -98,7 +98,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](http://www.twitter.com/confcssbrasil)
 * [CSSConf Argentina](http://cssconfar.com) // [@Css_Conf_AR](https://twitter.com/Css_Conf_AR)
 * [Front in Aracaju](http://www.frontinaracaju.com.br/) // [@frontinaracaju](https://twitter.com/frontinaracaju)
-* [Front in Bahia](http://www.frontinbahia.com.br/)
 * [Front in BH](http://frontinbh.com.br/) // [@frontinbh](https://twitter.com/frontinbh)
 * [Front in Maceio](http://frontinmaceio.com.br/) // [@frontinmaceio](https://twitter.com/frontinmaceio)
 * [Front in POA](http://frontinpoa.com.br/) // [@frontinpoa](https://twitter.com/frontinpoa)
