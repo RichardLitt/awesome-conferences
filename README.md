@@ -113,6 +113,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [RubyConf Argentina](http://rubyconfargentina.org/) // [@rubyconfAR](https://twitter.com/RubyConfAR)
 * [RubyConf Brasil](http://www.rubyconf.com.br/) // [@rubyconfbr](https://twitter.com/rubyconfbr)
 * [RubyConf Colombia](http://www.rubyconf.co/) // [@RubyConfCo](https://twitter.com/RubyConfCo)
+* [StarTechConf Chile](http://www.startechconf.com/) // [@startechconf](https://twitter.com/startechconf)
 * [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
 ### European
