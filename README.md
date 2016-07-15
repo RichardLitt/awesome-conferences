@@ -118,6 +118,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 ### European
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
+* [Blockchain Week](http://www.blockchainweek2016.org)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
 * [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
@@ -138,7 +139,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [dotSwift](http://www.dotswift.io/) // [@dotSwift](https://twitter.com/dotSwift)
 * [dotSecurity](http://www.dotsecurity.io/) // [@dotSecurityio](https://twitter.com/dotSecurityio)
 * [Ember Fest](https://emberfest.eu/) // [@EmberFest](https://twitter.com/EmberFest)
-* [Ethereum Devcon](https://devcon.ethereum.org/) // [@ethereumproject](https://twitter.com/ethereumproject)
 * [eurucamp](http://eurucamp.org/) // [@eurucamp](https://twitter.com/eurucamp)
 * [EuRuKo](http://euruko.org/) // [@euruko](https://twitter.com/euruko)
 * [FOSDEM](https://fosdem.org/2015/) // [@fosdem](https://twitter.com/fosdem)
