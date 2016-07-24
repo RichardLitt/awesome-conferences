@@ -86,7 +86,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [UtahJS](conf.utahjs.com) // [@utjs](https://twitter.com/utjs)
-* [Write/Speak/Code Conference](http://www.writespeakcode.com/conference/) // [@WriteSpeakCode](https://twitter.com/writespeakcode)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
 #### New York
