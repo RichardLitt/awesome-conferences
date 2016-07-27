@@ -31,6 +31,8 @@ Add your conferences below, using this template:
 * **Has reminder mailing list:**
 * **Twitter:** [@conf](https://twitter.com/conf)
 * **Tags:**
+* **Videos:** _Post the location if there is one._
+* **Notes or roundups:** _Post the location if there is one._
 * **Attendees:** _Add your name if you've attended._
 
 ## Conferences
@@ -62,20 +64,6 @@ Add your conferences below, using this template:
 * **Twitter:** None.
 * **Tags:** css
 * **Attendees:** _Add your name if you're going._
-
-
-## Past Conferences
-
-#### BackboneConf
-
-> This conference was awesome because...
-
-* **Website:** http://backboneconf.com/
-* **Location:** Boston, MA
-* **Dates:** 2012-2014
-* **Twitter:** [@backboneconf](https://twitter.com/backboneconf)
-* **Tags:** backbone
-* **Attendees:** _Add your name if you attended._
 
 ## Old Conferences List
 
@@ -276,6 +264,19 @@ These sites list open calls for speakers.
 
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
+
+## Past Conferences
+
+#### BackboneConf
+
+> This conference was awesome because...
+
+* **Website:** http://backboneconf.com/
+* **Location:** Boston, MA
+* **Dates:** 2012-2014
+* **Twitter:** [@backboneconf](https://twitter.com/backboneconf)
+* **Tags:** backbone
+* **Attendees:** _Add your name if you attended._
 
 ## Other Lists
 
