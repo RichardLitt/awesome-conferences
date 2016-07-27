@@ -1,9 +1,8 @@
-Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===================
+# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of conferences. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists thing.
+> :ticket: A list of awesome conferences
 
-_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
+**Note**: This list is currently undergoing substantive changes. Take a look at the new conference entries; if you can, please help out by going through and filling out entries for the older conferences!
 
 ### What makes a conference awesome?
 
@@ -16,11 +15,72 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
  * Alcohol-free drink options.
  * Quiet rooms and safe space.
 
+### Template
+
+Add your conferences below, using this template:
+
+#### ConferenceName
+
+> This conference is / looks awesome because...
+
+* **Website:**
+* **Location:**
+* **Date:**
+* **Registration:**
+* **Call for Presenters:**
+* **Has reminder mailing list:**
+* **Twitter:** [@conf](https://twitter.com/conf)
+* **Tags:**
+* **Attendees:** _Add your name if you've attended._
+
 ## Conferences
 
-* [Awwwards Conference](http://conference.awwwards.com) // [@awwwards](https://twitter.com/awwwards)
-* [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
-* [CSSConf](http://cssconf.org)
+#### Awwwwards Conference
+
+> This conference looks awesome, because Awwwards sets the tone for a lot of great webdesign. I would love to go to this. - [@RichardLitt](https://github.com/RichardLitt)
+
+* **Website:** http://conference.awwwards.com
+* **Location:** NYC, London
+* **Date:** January, 2017
+* **Registration:** TBA
+* **Call for Presenters:** TBA
+* **Has reminder mailing list:** Yes
+* **Twitter:** [@awwwards](https://twitter.com/awwwards), [@awwwardsNYC](https://twitter.com/awwwardsNYC)
+* **Tags:** design
+* **Attendees:** _Add your name if you've gone._
+
+#### CSS Conf
+
+> This conference looks awesome because of the speakers, and because it is hosted by the great Bocoup. I expect this to be awesome. - [@RichardLitt](https://github.com/RichardLitt)
+
+* **Website:** [CSSConf](http://cssconf.org)
+* **Location:** [US: Boston](https://2016.cssconf.com/), EU, AU, Asia, Oakland, Budapest, Nordic, Argentina
+* **Date:** US: Sept 26-27
+* **Registration:** Open.
+* **Call for Presenters:** Closed.
+* **Has reminder mailing list:** Yes.
+* **Twitter:** None.
+* **Tags:** css
+* **Attendees:** _Add your name if you're going._
+
+
+## Past Conferences
+
+#### BackboneConf
+
+> This conference was awesome because...
+
+* **Website:** http://backboneconf.com/
+* **Location:** Boston, MA
+* **Dates:** 2012-2014
+* **Twitter:** [@backboneconf](https://twitter.com/backboneconf)
+* **Tags:** backbone
+* **Attendees:** _Add your name if you attended._
+
+## Old Conferences List
+
+_If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
+
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -222,6 +282,7 @@ These sites list open calls for speakers.
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
 * [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
+* [watson/conferences](https://github.com/watson/conferences) List of awesome conferences from @watson.
 * [Interdisciplinary Open Source Community Conferences](https://gist.github.com/maxogden/322a649ff84fe1c2a680) by [@maxogden](https://github.com/maxogden).
 * [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
@@ -232,6 +293,20 @@ These sites list open calls for speakers.
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
+
+## About
+
+_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
+
+## Maintainers
+
+- [@Richardlitt](https://github.com/RichardLitt)
+
+Would you like to be a maintainer? Please ping me! [I'm looking for more.](https://github.com/RichardLitt/awesome-conferences/issues/106)
+
+## Contribute
+
+Please do! Check out the [Contributing](contributing.md) file, and [open an issue](https://github.com/RichardLitt/awesome-conferences/issues/new)!
 
 ## License
 
