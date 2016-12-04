@@ -134,6 +134,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [CSSconf Nordic](http://cssconf.no/) // [@cssconfno](https://twitter.com/cssconfno)
 * [csv,conf](http://csvconf.com/) // [@CSVConference](https://twitter.com/CSVConference)
 * [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
+* [DEVit](http://www.devitconf.org/) // [@devitconf](https://twitter.com/devitconf)
 * [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
 * [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
 * [dotGo](http://www.dotgo.eu/) // [@dotGoEu](https://twitter.com/dotGoEu)
