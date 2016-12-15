@@ -34,6 +34,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
 
 ### North American
+
 * [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
@@ -69,6 +70,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [nodeconf](http://nodeconf.com/) // [@nodeconf](https://twitter.com/nodeconf)
 * [Node Summit](nodesummit.com) // [@NodeSummit](https://twitter.com/NodeSummit)
 * [Nodevember](http://nodevember.org/) // [@nodevember](https://twitter.com/nodevember)
+* [npmCamp](http://npm.camp) // [@npmcamp](https://twitter.com/npmcamp)
 * [O'Reilly Fluent](http://fluentconf.com) // [@fluentconf](https://twitter.com/fluentconf)
 * [O'Reilly Strata](http://strataconf.com/) // [@strataconf](https://twitter.com/strataconf)
 * [OaklandJS](http://oaklandjs.com/) // [@oaklandjs](https://twitter.com/oaklandjs)
@@ -89,6 +91,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
 
 #### New York
+
 * [BrooklynJS](http://brooklynjs.com/) // [@brooklyn_js](https://twitter.com/brooklyn_js)
 * [EmpireJS](http://empirejs.org) // [@EmpireJS](https://twitter.com/EmpireJS)
 * [EmpireNode](http://empirenode.org/) // [@empirenode](https://twitter.com/empirenode)
@@ -97,6 +100,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [WriteSpeakCode Workshop](http://www.writespeakcode.com/workshop.html) // [@WriteSpeakCode](https://www.twitter.com/WriteSpeakCode)
 
 ### South American
+
 * [Brazil JS Conf](http://braziljs.com.br/) // [@braziljs](http://www.twitter.com/braziljs)
 * [Conference CSS Brazil](http://conferenciacssbrasil.com.br/) // [@confcssbrasil](http://www.twitter.com/confcssbrasil)
 * [CSSConf Argentina](http://cssconfar.com) // [@Css_Conf_AR](https://twitter.com/Css_Conf_AR)
@@ -120,6 +124,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Tableless Conference](http://tableless.com.br/tablelessconf/) // [@tableless](http://twitter.com/tableless)
 
 ### European
+
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
@@ -181,6 +186,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
 
 ### Asian
+
 * [CSSConf Asia](http://cssconf.asia/) // [@CSSconfasia](https://twitter.com/cssconfasia)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
@@ -195,6 +201,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [RubyConf India](http://rubyconfindia.org/) // [@rubyconfindia](https://twitter.com/rubyconfindia)
 
 ### Australian
+
 * [CampJS](http://campjs.com/) // [@campjsnews](https://twitter.com/campjsnews)
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
