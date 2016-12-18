@@ -125,6 +125,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 ### European
 
+* [AmsterdamJS Conference](https://amsterdamjs.com) // [@AmsterdamJS](https://twitter.com/AmsterdamJS)
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
@@ -175,6 +176,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [NodeConf Europe](http://www.nodeconf.eu/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
 * [Paris-Web](http://www.paris-web.fr/) // [@parisweb](https://twitter.com/ParisWeb)
 * [PolyConf](http://polyconf.com/) // [@polyconfhq](https://twitter.com/polyconfhq)
+* [React Amsterdam](https://react.amsterdam) // [@ReactAmsterdam](https://twitter.com/ReactAmsterdam)
 * [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Redecentralize](http://redecentralize.org/) // [@redecentralize](https://twitter.com/redecentralize)
