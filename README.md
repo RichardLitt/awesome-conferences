@@ -18,7 +18,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 
 ## Conferences
 
-* [Awwwards Conference](http://conference.awwwards.com) // [@awwwardsNYC](https://twitter.com/awwwardsNYC)
+* [Awwwards Conference](http://conference.awwwards.com) // [@awwwards](https://twitter.com/awwwards)
 * [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
 * [CSSConf](http://cssconf.org)
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
@@ -30,7 +30,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Papers We Love](https://github.com/papers-we-love/papers-we-love) // [@papers_we_love](https://twitter.com/papers_we_love)
 * [Science Hack Day](http://sciencehackday.org/) // [@sciencehackday](https://twitter.com/sciencehackday)
 * [Symfony Live](http://live.symfony.com/) // [@symfony_live](https://twitter.com/symfony_live)
-* [React.js Conf](http://conf.reactjs.com/) // [@vjeux](https://twitter.com/vjeux)
+* [React.js Conf](http://conf.reactjs.org/) // [@vjeux](https://twitter.com/vjeux)
 * [Web Rebels Conf](https://www.webrebels.org/) // [@web_rebels](https://twitter.com/web_rebels)
 
 ### North American
@@ -47,7 +47,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [DanceJS](http://dancejs.io/) // [@oaklanddancejs](https://twitter.com/oaklanddancejs)
 * [DEFCON](https://defcon.org/) // [@_defcon_](https://twitter.com/_defcon_)
 * [DinosaurJS](http://dinosaurjs.org/) // [@dinosaur_js](https://twitter.com/dinosaur_js)
-* [DjangoCon US](http://www.djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
+* [DjangoCon US](https://djangocon.us/) // [@djangocon](https://twitter.com/djangocon)
 * [Dockerconf](http://2016.dockercon.com/) // [@dockercon](https://twitter.com/dockercon)
 * [Edge Conf](https://edgeconf.com) // [@edgeconf](https://twitter.com/edgeconf)
 * [EmberConf](http://emberconf.com/) // [@emberconf](https://twitter.com/emberconf)
@@ -57,7 +57,6 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Google I/O](https://www.google.com/events/io) // [@googledevs](https://twitter.com/googledevs)
 * [HTML5DevConf](http://html5devconf.com/) // [@html5devconf](https://twitter.com/html5devconf)
 * [JavaOne](https://www.oracle.com/javaone) // [@JavaOneConf](https://twitter.com/JavaOneConf)
-* [jQuery Conference](http://events.jquery.org/2014/chicago/) // [@jqcon](https://twitter.com/jqcon)
 * [JSConf (All)](http://jsconf.com) // [@jsconf](https://twitter.com/jsconf)
 * [JSConf US](http://2015.jsconf.us/) // [@JSConfUS](https://twitter.com/JSConfUS)
 * [KCDC](http://www.kcdc.info/) // [@kc_dc](https://twitter.com/kc_dc)
