@@ -36,6 +36,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 ### North American
 
 * [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
+* [Active Indgredients](http://activeingredients.info/) 
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
