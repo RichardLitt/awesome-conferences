@@ -88,6 +88,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [UtahJS](conf.utahjs.com) // [@utjs](https://twitter.com/utjs)
 * [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
+* [Active Indgredients](http://activeingredients.info/) 
 
 #### New York
 
