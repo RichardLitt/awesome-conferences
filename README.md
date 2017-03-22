@@ -186,6 +186,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [SFK](http://sfk.flossk.org/) // [@FLOSSKosova](https://twitter.com/flosskosova)
 * [Squatconf](http://squatconf.eu/)
 * [WebExpo](http://www.webexpo.cz/) // [@webexpo](https://twitter.com/webexpo)
+* [RigaDevDays](http://rigadevdays.lv/) // [@rigadevdays](https://twitter.com/rigadevdays)
 
 ### Asian
 
