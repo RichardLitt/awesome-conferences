@@ -181,6 +181,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
 * [Redecentralize](http://redecentralize.org/) // [@redecentralize](https://twitter.com/redecentralize)
 * [Reject.JS](http://rejectjs.org/) // [@RejectJS](https://twitter.com/RejectJS)
+* [RigaDevDays](http://rigadevdays.lv/) // [@rigadevdays](https://twitter.com/rigadevdays)
 * [Rubyslava](http://rubyslava.sk/english.html) // [@rubyslava](https://twitter.com/rubyslava)
 * [ScotlandJS](http://scotlandjs.com/) // [@ScotlandJS](https://twitter.com/ScotlandJS)
 * [SFK](http://sfk.flossk.org/) // [@FLOSSKosova](https://twitter.com/flosskosova)
