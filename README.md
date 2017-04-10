@@ -142,6 +142,7 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [Decentralize Camp](http://decentralizecamp.com/) // [@decentamp](https://twitter.com/decentcamp)
 * [DEVit](http://www.devitconf.org/) // [@devitconf](https://twitter.com/devitconf)
 * [Devoxx](http://www.devoxx.com/) // [@Devoxx](https://twitter.com/Devoxx)
+* [DevTernity](https://devternity.com/) // [@devternity](https://twitter.com/devternity)
 * [dotCSS](http://www.dotcss.io/) // [@dotCSS](https://twitter.com/dotCSS)
 * [dotGo](http://www.dotgo.eu/) // [@dotGoEu](https://twitter.com/dotGoEu)
 * [dotJS](http://www.dotjs.io/) // [@dotJS](https://twitter.com/dotJS)
