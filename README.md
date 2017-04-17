@@ -247,8 +247,6 @@ _If you see any conferences here that you like // have attended // will attend, 
 * **Website:** http://conference.awwwards.com
 * **Location:** Los Angeles, NY, London.
 * **Date:** May, 2017
-* **Registration:** Over.
-* **Call for Presenters:** Over
 * **Has reminder mailing list:** Yes
 * **Twitter:** [@awwwards](https://twitter.com/awwwards), [@awwwardsNYC](https://twitter.com/awwwardsNYC)
 * **Tags:** design
@@ -272,8 +270,6 @@ _If you see any conferences here that you like // have attended // will attend, 
 * **Website:** [CSSConf](http://cssconf.org)
 * **Location:** [US: Boston](https://2016.cssconf.com/), EU, AU, Asia, Oakland, Budapest, Nordic, Argentina
 * **Date:** September, 2016.
-* **Registration:** Closed.
-* **Call for Presenters:** Closed.
 * **Has reminder mailing list:** Yes.
 * **Twitter:** [@cssconf](https://twitter.com/cssconf)
 * **Tags:** css
