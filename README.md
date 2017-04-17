@@ -44,7 +44,18 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ## Conferences
 
-_Add Conferences here!_
+#### Dent:Space
+
+> It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen]
+
+* **Website:** http://space.dentthefuture.com/
+* **Location:** San Francisco, CA
+* **Date:** September, 2016
+* **Has reminder mailing list:** yes.
+* **Twitter:** [@dent](https://twitter.com/dent)
+* **Twitter Hashtag:** #DentSpace
+* **Tags:** Space
+* **Attendees:** [@Annaleen](https://twitter.com/Annaleen]
 
 ## Old Conferences List
 
