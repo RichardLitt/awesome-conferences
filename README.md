@@ -44,9 +44,9 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ## Conferences
 
-#### Dent:Space
+### Dent:Space
 
-> It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen]
+> It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen)
 
 * **Website:** http://space.dentthefuture.com/
 * **Location:** San Francisco, CA
