@@ -4,7 +4,31 @@
 
 **Note**: This list is currently undergoing substantive changes. Take a look at the new conference entries; if you can, please help out by going through and filling out entries for the older conferences!
 
-### What makes a conference awesome?
+## Contents
+
+- [What makes a conference awesome?](#what-makes-a-conference-awesome)
+- [Conferences](#conferences)
+- [Old Conferences List](#old-conferences-list)
+	- [North American](#north-american)
+		- [New York](#new-york)
+	- [South American](#south-american)
+	- [European](#european)
+	- [Asian](#asian)
+	- [Australian](#australian)
+- [Past Conferences](#past-conferences)
+  - [Awwwwards Conference](#awwwwards-conference)
+  - [CSS Conf](#css-conf)
+  - [BackboneConf](#backboneconf)
+- [Resources](#resources)
+	- [Help with Speaking](#help-with-speaking)
+	- [Call for Speakers](#call-for-speakers)
+	- [Other Lists](#other-lists)
+- [About](#about)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
+
+## What makes a conference awesome?
 
  * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on why, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces).
  * A great line up of talks.
@@ -15,55 +39,11 @@
  * Alcohol-free drink options.
  * Quiet rooms and safe space.
 
-### Template
-
-Add your conferences below, using this template:
-
-#### ConferenceName
-
-> This conference is / looks awesome because...
-
-* **Website:**
-* **Location:**
-* **Date:**
-* **Registration:**
-* **Call for Presenters:**
-* **Has reminder mailing list:**
-* **Twitter:** [@conf](https://twitter.com/conf)
-* **Tags:**
-* **Videos:** _Post the location if there is one._
-* **Notes or roundups:** _Post the location if there is one._
-* **Attendees:** _Add your name if you've attended._
+Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) provided.
 
 ## Conferences
 
-#### Awwwwards Conference
-
-> This conference looks awesome, because Awwwards sets the tone for a lot of great webdesign. I would love to go to this. - [@RichardLitt](https://github.com/RichardLitt)
-
-* **Website:** http://conference.awwwards.com
-* **Location:** NYC, London
-* **Date:** January, 2017
-* **Registration:** TBA
-* **Call for Presenters:** TBA
-* **Has reminder mailing list:** Yes
-* **Twitter:** [@awwwards](https://twitter.com/awwwards), [@awwwardsNYC](https://twitter.com/awwwardsNYC)
-* **Tags:** design
-* **Attendees:** _Add your name if you've gone._
-
-#### CSS Conf
-
-> This conference looks awesome because of the speakers, and because it is hosted by the great Bocoup. I expect this to be awesome. - [@RichardLitt](https://github.com/RichardLitt)
-
-* **Website:** [CSSConf](http://cssconf.org)
-* **Location:** [US: Boston](https://2016.cssconf.com/), EU, AU, Asia, Oakland, Budapest, Nordic, Argentina
-* **Date:** US: Sept 26-27
-* **Registration:** Open.
-* **Call for Presenters:** Closed.
-* **Has reminder mailing list:** Yes.
-* **Twitter:** None.
-* **Tags:** css
-* **Attendees:** _Add your name if you're going._
+_Add Conferences here!_
 
 ## Old Conferences List
 
@@ -258,16 +238,23 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
 
-## Call for Speakers
-
-These sites list open calls for speakers.
-
-* [Call to Speakers](https://calltospeakers.com/)
-* [Lanyrd.com](http://lanyrd.com/calls/)
-
 ## Past Conferences
 
-#### BackboneConf
+### Awwwwards Conference
+
+> This conference looks awesome, because Awwwards sets the tone for a lot of great webdesign. I would love to go to this. - [@RichardLitt](https://github.com/RichardLitt)
+
+* **Website:** http://conference.awwwards.com
+* **Location:** Los Angeles, NY, London.
+* **Date:** May, 2017
+* **Registration:** Over.
+* **Call for Presenters:** Over
+* **Has reminder mailing list:** Yes
+* **Twitter:** [@awwwards](https://twitter.com/awwwards), [@awwwardsNYC](https://twitter.com/awwwardsNYC)
+* **Tags:** design
+* **Attendees:** _Add your name if you've gone._
+
+### BackboneConf
 
 > This conference was awesome because...
 
@@ -278,7 +265,35 @@ These sites list open calls for speakers.
 * **Tags:** backbone
 * **Attendees:** _Add your name if you attended._
 
-## Other Lists
+### CSS Conf
+
+> This conference looks awesome because of the speakers, and because it is hosted by the great Bocoup. - [@RichardLitt](https://github.com/RichardLitt)
+
+* **Website:** [CSSConf](http://cssconf.org)
+* **Location:** [US: Boston](https://2016.cssconf.com/), EU, AU, Asia, Oakland, Budapest, Nordic, Argentina
+* **Date:** September, 2016.
+* **Registration:** Closed.
+* **Call for Presenters:** Closed.
+* **Has reminder mailing list:** Yes.
+* **Twitter:** [@cssconf](https://twitter.com/cssconf)
+* **Tags:** css
+* **Attendees:** _Add your name if you've gone._
+
+## Resources
+
+### Help with Speaking
+
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+* [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
+
+### Call for Speakers
+
+These sites list open calls for speakers.
+
+* [Call to Speakers](https://calltospeakers.com/)
+* [Lanyrd.com](http://lanyrd.com/calls/)
+
+### Other Lists
 
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
@@ -290,10 +305,6 @@ These sites list open calls for speakers.
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
 
-## Resources
-
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
-* [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ## About
 
@@ -311,6 +322,6 @@ Please do! Check out the [Contributing](contributing.md) file, and [open an issu
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.

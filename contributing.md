@@ -1,6 +1,6 @@
 # Contribute
 
-awesome-conferences is a community effort.
+Awesome-conferences is a community effort.
 
 Please ensure your pull request adheres to the following guidelines:
 
@@ -11,7 +11,7 @@ Please ensure your pull request adheres to the following guidelines:
 - Meetups are not normally conferences; please add stuff that is a bit more awesome than just a local 'talks-at-a-bar' recurring event.
 - Make an individual pull request for each suggestion.
 - Titles should be capitalized.
-- Use the following format: ` - [Conference name](conference website) // [Twitter name](twitter link)`
+- Use the format used in the [PULL_REQUEST_TEMPLATE](PULL_REQUEST_TEMPLATE.md).
 - Link additions should be added alphabetized and in the relevant category.
 - New categories or improvements to the existing categorization are welcome.
 - Check your spelling.
