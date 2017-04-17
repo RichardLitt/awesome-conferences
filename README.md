@@ -276,6 +276,20 @@ _If you see any conferences here that you like // have attended // will attend, 
 * **Tags:** css
 * **Attendees:** _Add your name if you've gone._
 
+### GopherConIndia
+
+> This conference is awesome because it brings the whole Go community in India at once place and has a great line-up of speakers.- [@nikhita](https://github.com/nikhita)
+
+* **Website:** [GopherConIndia](http://www.gophercon.in/)
+* **Location:** Pune, Maharashtra, India.
+* **Date:** February, 2017.
+* **Has reminder mailing list:** No.
+* **Twitter:** [@GopherConIndia](https://twitter.com/gopherconindia)
+* **Twitter Hashtag:** #GCI17
+* **Tags:** golang.
+* **Videos:** [GCI17](https://www.youtube.com/playlist?list=PLFjrjdmBd0CoclkJ_JdBET5fzz4u0SELZ).
+* **Attendees:** Nikhita Raghunath.
+
 ## Resources
 
 ### Help with Speaking
