@@ -293,6 +293,7 @@ These sites list open calls for speakers.
 
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
+* [awesome-software-craftsmanship conferences](https://github.com/benas/awesome-software-craftsmanship#school-conferences)
 * [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.
 * [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
 * [watson/conferences](https://github.com/watson/conferences) List of awesome conferences from @watson.
