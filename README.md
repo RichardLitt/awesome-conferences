@@ -22,6 +22,7 @@
 - [Resources](#resources)
 	- [Help with Speaking](#help-with-speaking)
 	- [Call for Speakers](#call-for-speakers)
+	- [For Organizers](#for-organizers)
 	- [Other Lists](#other-lists)
 - [About](#about)
 - [Maintainers](#maintainers)
@@ -288,6 +289,13 @@ These sites list open calls for speakers.
 
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
+
+### For Organizers
+
+How to host stuff.
+
+- [How we grew Boston CSS to a Meetup that we love](https://medium.com/@acacheung/how-we-grew-boston-css-to-a-meetup-that-we-love-5eeb72a7c460#.hsnfw53kc)
+- [Guide to Meetups](http://inside.envato.com/guide-to-meetups/)
 
 ### Other Lists
 
