@@ -44,6 +44,17 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ## Conferences
 
+#### Abstractions
+> I'm a huge fan of the Code & Supply team, and this conference was everything awesome about their community group in conference form. - [@RemyPorter](https://twitter.com/RemyPorter)
+
+* **Website**: [Last Year](http://abstractions.io/), the [announcement](https://codeandsupply.co/conferences) for next year (and other, smaller conferences)
+* **Location**: Pittsburgh, PA
+* **Date**: August 2016, August 2018
+* **Has reminder mailing list**: yes
+* **Twitter**: [@abstractionscon](https://twitter.com/abstractionscon)
+* **Attendees**: [@RemyPorter](https://twitter.com/RemyPorter)
+* **Video**: [Recap](https://www.youtube.com/watch?v=bMB5Vr8MEII)
+
 #### Dent:Space
 
 > It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen]
