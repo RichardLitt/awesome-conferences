@@ -55,7 +55,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Twitter:** [@dent](https://twitter.com/dent)
 * **Twitter Hashtag:** #DentSpace
 * **Tags:** Space
-* **Attendees:** [@Annaleen](https://twitter.com/Annaleen]
+* **Attendees:** [@Annaleen](https://twitter.com/Annaleen)
 
 ## Old Conferences List
 
