@@ -293,6 +293,7 @@ These sites list open calls for speakers.
 
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
+* [Big Conference List](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0) from @joshsimmons.
 * [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
 * [watson/conferences](https://github.com/watson/conferences) List of awesome conferences from @watson.
 * [Interdisciplinary Open Source Community Conferences](https://gist.github.com/maxogden/322a649ff84fe1c2a680) by [@maxogden](https://github.com/maxogden).
@@ -300,6 +301,7 @@ These sites list open calls for speakers.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
+
 
 
 ## About
