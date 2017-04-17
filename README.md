@@ -1,11 +1,34 @@
-Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-===================
+# Awesome Conferences [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-An awesome list of conferences. Inspired by the [awesome](https://github.com/sindresorhus/awesome) lists thing.
+> :ticket: A list of awesome conferences
 
-_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
+**Note**: This list is currently undergoing substantive changes. Take a look at the new conference entries; if you can, please help out by going through and filling out entries for the older conferences!
 
-### What makes a conference awesome?
+## Contents
+
+- [What makes a conference awesome?](#what-makes-a-conference-awesome)
+- [Conferences](#conferences)
+- [Old Conferences List](#old-conferences-list)
+	- [North American](#north-american)
+		- [New York](#new-york)
+	- [South American](#south-american)
+	- [European](#european)
+	- [Asian](#asian)
+	- [Australian](#australian)
+- [Past Conferences](#past-conferences)
+  - [Awwwwards Conference](#awwwwards-conference)
+  - [CSS Conf](#css-conf)
+  - [BackboneConf](#backboneconf)
+- [Resources](#resources)
+	- [Help with Speaking](#help-with-speaking)
+	- [Call for Speakers](#call-for-speakers)
+	- [Other Lists](#other-lists)
+- [About](#about)
+- [Maintainers](#maintainers)
+- [Contribute](#contribute)
+- [License](#license)
+
+## What makes a conference awesome?
 
  * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on why, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces).
  * A great line up of talks.
@@ -16,11 +39,16 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
  * Alcohol-free drink options.
  * Quiet rooms and safe space.
 
+Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) provided.
+
 ## Conferences
 
-* [Awwwards Conference](http://conference.awwwards.com) // [@awwwards](https://twitter.com/awwwards)
-* [BackboneConf](http://backboneconf.com/) // [@backboneconf](https://twitter.com/backboneconf)
-* [CSSConf](http://cssconf.org)
+_Add Conferences here!_
+
+## Old Conferences List
+
+_If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
+
 * [Foss4g](http://foss4g.org/) // [@foss4g](https://twitter.com/foss4g)
 * [Future Insights](http://www.futureinsights.com/) // [@Future_Insights](https://twitter.com/Future_Insights)
 * [JS CodeRetreat](http://jscoderetreat.com/) // [@jsCodeRetreat](https://twitter.com/jsCodeRetreat)
@@ -210,31 +238,90 @@ _This was seeded initially from [@brittanystoroz's Twitter list](https://twitter
 * [CSSConf Australia](http://cssconf.com.au) // [@cssconfau](https://twitter.com/cssconfau)
 * [JSConfAU](http://au.jsconf.com/) // [@JSConfAU](https://twitter.com/JSConfAU)
 
-## Call for Speakers
+## Past Conferences
+
+### Awwwwards Conference
+
+> This conference looks awesome, because Awwwards sets the tone for a lot of great webdesign. I would love to go to this. - [@RichardLitt](https://github.com/RichardLitt)
+
+* **Website:** http://conference.awwwards.com
+* **Location:** Los Angeles, NY, London.
+* **Date:** May, 2017
+* **Registration:** Over.
+* **Call for Presenters:** Over
+* **Has reminder mailing list:** Yes
+* **Twitter:** [@awwwards](https://twitter.com/awwwards), [@awwwardsNYC](https://twitter.com/awwwardsNYC)
+* **Tags:** design
+* **Attendees:** _Add your name if you've gone._
+
+### BackboneConf
+
+> This conference was awesome because...
+
+* **Website:** http://backboneconf.com/
+* **Location:** Boston, MA
+* **Dates:** 2012-2014
+* **Twitter:** [@backboneconf](https://twitter.com/backboneconf)
+* **Tags:** backbone
+* **Attendees:** _Add your name if you attended._
+
+### CSS Conf
+
+> This conference looks awesome because of the speakers, and because it is hosted by the great Bocoup. - [@RichardLitt](https://github.com/RichardLitt)
+
+* **Website:** [CSSConf](http://cssconf.org)
+* **Location:** [US: Boston](https://2016.cssconf.com/), EU, AU, Asia, Oakland, Budapest, Nordic, Argentina
+* **Date:** September, 2016.
+* **Registration:** Closed.
+* **Call for Presenters:** Closed.
+* **Has reminder mailing list:** Yes.
+* **Twitter:** [@cssconf](https://twitter.com/cssconf)
+* **Tags:** css
+* **Attendees:** _Add your name if you've gone._
+
+## Resources
+
+### Help with Speaking
+
+* [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+* [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
+
+### Call for Speakers
 
 These sites list open calls for speakers.
 
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
 
-## Other Lists
+### Other Lists
 
 * [AndroidStudyGroup](https://github.com/AndroidStudyGroup/conferences)
 * [awesome-django#conferences](https://github.com/rosarior/awesome-django#conferences). The conferences section from a curated list of awesome Django apps, projects and resources.
 * [Cocoa Conferences](https://github.com/Lascorbe/CocoaConferences) List of cocoa conferences for iOS & OSX developers.
+* [watson/conferences](https://github.com/watson/conferences) List of awesome conferences from @watson.
 * [Interdisciplinary Open Source Community Conferences](https://gist.github.com/maxogden/322a649ff84fe1c2a680) by [@maxogden](https://github.com/maxogden).
 * [Conferences list](https://twitter.com/jakerella/lists/conferences/members) by [@jakarella](https://twitter.com/jakerella) on Twitter.
 * [php conferences in fall 2015](https://gist.github.com/DragonBe/51002bd40a6fa99a5123)
 * [planetruby/awesome-events](https://github.com/planetruby/awesome-events). A collection of awesome Ruby events (meetups, conferences, camps, etc.) from around the world.
 * [totalism.org](http://totalism.org/calendar). Events of interest for tactical hacker, theory, avant-art scenes in space-time.
 
-## Resources
 
-* [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
-* [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
+## About
+
+_This was seeded initially from [@brittanystoroz's Twitter list](https://twitter.com/brittanystoroz/confs-and-meetups/). The `O-Reilly` folder is the dedicated front end where you can filter through all of the conferences listed by @joshsimmons on his [excel sheet](https://docs.google.com/spreadsheets/d/1ttYpVdCRb8G3ulesFrg6OvpJGKEXk6kmmtGWsyqWFw4/edit#gid=0). Initial work on this list was done by [@Stephn-R](https://github.com/Stephn-R)._
+
+## Maintainers
+
+- [@Richardlitt](https://github.com/RichardLitt)
+
+Would you like to be a maintainer? Please ping me! [I'm looking for more.](https://github.com/RichardLitt/awesome-conferences/issues/106)
+
+## Contribute
+
+Please do! Check out the [Contributing](contributing.md) file, and [open an issue](https://github.com/RichardLitt/awesome-conferences/issues/new)!
 
 ## License
 
-[![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
+[![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Richard Littauer](http://burntfen.com) has waived all copyright and related or neighboring rights to this work.
