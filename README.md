@@ -83,7 +83,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ### JSDC
 
-> It invites international speakers from other countries, provides high-quality real-time translation of the talks. [@PeterDaveHello](https://github.com/PeterDaveHello)
+> It invites international speakers from other countries, provides high-quality real-time translation of the talks. - [@PeterDaveHello](https://github.com/PeterDaveHello)
 
 * **Website:** http://jsdc.tw/
 * **Location:** Taiwain
