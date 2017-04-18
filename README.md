@@ -81,6 +81,20 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Tags:** Space
 * **Attendees:** [@Annaleen](https://twitter.com/Annaleen)
 
+### JSDC
+
+> It invites international speakers from other countries, provides high-quality real-time translation of the talks. [@PeterDaveHello](https://github.com/PeterDaveHello]
+
+* **Website:** http://jsdc.tw/
+* **Location:** Taiwain
+* **Date:** 2012-2016, presumably 2017
+* **Registration:** TBA.
+* **Call for Presenters:** TBA.
+* **Twitter:** [@jsdc_tw](https://twitter.com/jsdc_tw)
+* **Tags:** js, javascript, taiwain
+* **Notes or roundups:** https://github.com/aar0nTw/jsdc2014-notes, https://github.com/substack/jsdc.tw-2014
+* **Attendees:** [@PeterDaveHello](https://github.com/PeterDaveHello]
+
 ## Old Conferences List
 
 _If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
@@ -259,7 +273,6 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [CSSConf Asia](http://cssconf.asia/) // [@CSSconfasia](https://twitter.com/cssconfasia)
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
-* [JSDC](http://jsdc.tw/) // [@jsdc_tw](https://twitter.com/jsdc_tw)
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
