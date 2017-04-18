@@ -56,6 +56,18 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Attendees**: [@RemyPorter](https://twitter.com/RemyPorter)
 * **Video**: [Recap](https://www.youtube.com/watch?v=bMB5Vr8MEII)
 
+### AndroidMakers
+
+> The organizing team did an incredible job to have speakers from all over the world and from different parts of the Android community(Android team, Google Developer Experts, Developers strongly involved in the environment). - [@jobot0](https://twitter.com/jobot0) 
+
+* **Website**: http://androidmakers.fr/
+* **Location**: Paris, France
+* **Date**: April 2017
+* **Has reminder mailing list**: yes
+* **Twitter**: [@AndroidMakersFR](https://twitter.com/androidmakersfr)
+* **Attendees**: [@jobot0](https://twitter.com/jobot0)
+* **Video**: [Youtube Channel](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
+
 ### Dent:Space
 
 > It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen)
@@ -177,6 +189,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 
 ### European
 
+* [AndroidMakers](http://androidmakers.fr/) // [@AndroidMakersFR](https://twitter.com/AndroidMakersFR)
 * [AmsterdamJS Conference](https://amsterdamjs.com) // [@AmsterdamJS](https://twitter.com/AmsterdamJS)
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
