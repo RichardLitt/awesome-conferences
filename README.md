@@ -44,6 +44,17 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ## Conferences
 
+### AndroidMakers
+> The organizing team did an incredible job to have speakers from all over the world and from different parts of the Android community(Android team, Google Developer Experts, Developers strongly involved in the environment). - [@jobot0](https://twitter.com/jobot0) 
+
+* **Website**: http://androidmakers.fr/
+* **Location**: Paris, France
+* **Date**: April 2017
+* **Has reminder mailing list**: yes
+* **Twitter**: [@AndroidMakersFR](https://twitter.com/androidmakersfr)
+* **Attendees**: [@jobot0](https://twitter.com/jobot0)
+* **Video**: [Youtube Channel](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
+
 ### Abstractions
 
 > I'm a huge fan of the Code & Supply team, and this conference was everything awesome about their community group in conference form. - [@RemyPorter](https://twitter.com/RemyPorter)
