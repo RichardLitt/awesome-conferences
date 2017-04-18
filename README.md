@@ -83,7 +83,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ### JSDC
 
-> This conference is / looks awesome because... . - [@poying](https://github.com/poying]
+> It invites international speakers from other countries, provides high-quality real-time translation of the talks. [@PeterDaveHello](https://github.com/PeterDaveHello]
 
 * **Website:** http://jsdc.tw/
 * **Location:** Taiwain
@@ -93,7 +93,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Twitter:** [@jsdc_tw](https://twitter.com/jsdc_tw)
 * **Tags:** js, javascript, taiwain
 * **Notes or roundups:** https://github.com/aar0nTw/jsdc2014-notes, https://github.com/substack/jsdc.tw-2014
-* **Attendees:** _Add your name if you've attended._
+* **Attendees:** [@PeterDaveHello](https://github.com/PeterDaveHello]
 
 ## Old Conferences List
 
