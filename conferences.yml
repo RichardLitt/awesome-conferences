@@ -549,7 +549,7 @@
 :tags: 
 ---
 :name: dotGo
-:website: http://www.dotgo.io/
+:website: http://www.dotgo.eu/
 :twitter: ! '@dotGoEu'
 :location: European
 :tags: 
@@ -568,7 +568,13 @@
 ---
 :name: dotSwift
 :website: http://www.dotswift.io/
-:twitter: ! '@dotSwift_io'
+:twitter: ! '@dotSwift'
+:location: European
+:tags: 
+---
+:name: dotSecurity
+:website: http://www.dotsecurity.io/
+:twitter: ! '@dotSecurityio'
 :location: European
 :tags: 
 ---
