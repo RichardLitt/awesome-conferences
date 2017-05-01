@@ -344,6 +344,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 ### Help with Speaking
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
