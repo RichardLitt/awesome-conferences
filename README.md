@@ -353,6 +353,8 @@ These sites list open calls for speakers.
 
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
+* [Papercall](https://papercall.io)
+* [Technically Speaking](https://techspeak.email/)
 
 ### For Organizers
 
