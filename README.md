@@ -206,6 +206,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [AndroidMakers](http://androidmakers.fr/) // [@AndroidMakersFR](https://twitter.com/AndroidMakersFR)
 * [AmsterdamJS Conference](https://amsterdamjs.com) // [@AmsterdamJS](https://twitter.com/AmsterdamJS)
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
+* [Basta!](https://basta.net/en) // [@bastacon](https://twitter.com/bastacon)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
