@@ -275,6 +275,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
+* [JSChannel India](http://jschannel.com/) // [@jsfooindia](https://twitter.com/js_channel/)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
 * [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
