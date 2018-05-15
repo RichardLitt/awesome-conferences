@@ -357,6 +357,7 @@ These sites list open calls for speakers.
 * [Lanyrd.com](http://lanyrd.com/calls/)
 * [Papercall](https://papercall.io)
 * [Technically Speaking](https://techspeak.email/)
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter @ItCfpList.
 
 ### For Organizers
 
