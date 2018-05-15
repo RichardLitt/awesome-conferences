@@ -206,6 +206,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [AndroidMakers](http://androidmakers.fr/) // [@AndroidMakersFR](https://twitter.com/AndroidMakersFR)
 * [AmsterdamJS Conference](https://amsterdamjs.com) // [@AmsterdamJS](https://twitter.com/AmsterdamJS)
 * [Arrrrcamp](http://2015.arrrrcamp.be) // [@arrrrcamp](https://twitter.com/arrrrcamp)
+* [Basta!](https://basta.net/en) // [@bastacon](https://twitter.com/bastacon)
 * [Beyond Tellerrand](http://beyondtellerrand.com) // [@btconf](https://twitter.com/btconf)
 * [British Node Conf](http://greatbritishnodeconf.co.uk/) // [@britishnodeconf](https://twitter.com/britishnodeconf)
 * [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
@@ -274,6 +275,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [Jing JS (京JS)](http://jsconf.cn) // [@jingjsconf](https://twitter.com/jingjsconf)
 * [JSConf Asia](http://jsconf.asia) // [@jsconfasia](https://twitter.com/jsconfasia)
 * [JSFoo India](https://jsfoo.in/) // [@jsfooindia](https://twitter.com/jsfooindia)
+* [JSChannel India](http://jschannel.com/) // [@jsfooindia](https://twitter.com/js_channel/)
 * [NodeConf India](http://www.nodeconf.in/) // [@NodeConfin](https://twitter.com/NodeConfIn)
 * [PyCon India](https://in.pycon.org/) // [@pyconindia](https://twitter.com/pyconindia)
 * [Null Con India](http://nullcon.net/website/) // [@nullcon](https://twitter.com/nullcon)
@@ -344,6 +346,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 ### Help with Speaking
 
 * [awesome-speaking](https://github.com/matteofigus/awesome-speaking)
+* [gitpitch](https://github.com/gitpitch/gitpitch) - Markdown Presentations For Everyone on GitHub, GitLab and Bitbucket. https://gitpitch.com.
 * [Public speaking tips](https://gist.github.com/macintux/5354837) from [@Macintux](https://github.com/macintux).
 
 ### Call for Speakers
@@ -352,6 +355,9 @@ These sites list open calls for speakers.
 
 * [Call to Speakers](https://calltospeakers.com/)
 * [Lanyrd.com](http://lanyrd.com/calls/)
+* [Papercall](https://papercall.io)
+* [Technically Speaking](https://techspeak.email/)
+* [IT CFP List](https://github.com/softwaremill/it-cfp-list) - List of IT conferences Call For Papers, changes are also published via Twitter [@ItCfpList](https://twitter.com/ItCfpList).
 
 ### For Organizers
 
