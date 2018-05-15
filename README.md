@@ -364,6 +364,7 @@ How to host stuff.
 
 - [How we grew Boston CSS to a Meetup that we love](https://medium.com/@acacheung/how-we-grew-boston-css-to-a-meetup-that-we-love-5eeb72a7c460#.hsnfw53kc)
 - [Guide to Meetups](http://inside.envato.com/guide-to-meetups/)
+- [How to make your conference perfect?](https://blog.softwaremill.com/how-to-make-your-conference-perfect-a4f0e7f441c5)
 
 ### Other Lists
 
