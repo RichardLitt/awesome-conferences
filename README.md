@@ -239,6 +239,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [FullStack Fest](http://www.fullstackfest.com/) // [@fullstackfest](https://twitter.com/fullstackfest)
 * [GreachConf](http://greachconf.com/) // [@greachconf](https://twitter.com/greachconf)
 * [JavaZone](http://javazone.no) // [@JavaZone](https://twitter.com/javazone)
+* [JAX London](https://jaxlondon.com) // [@jaxlondon](https://twitter.com/jaxlondon)
 * [JFokus](http://www.jfokus.se) // [@Jfokus](https://twitter.com/Jfokus)
 * [JRubyConf.EU](http://jrubyconf.eu) // [@jrubyconfeu](https://twitter.com/jrubyconfeu)
 * [JS Italian Conf](http://2014.jsday.it/) // [@jsconfit](https://twitter.com/jsconfit)
