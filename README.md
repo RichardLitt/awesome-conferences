@@ -68,6 +68,19 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Attendees**: [@jobot0](https://twitter.com/jobot0)
 * **Video**: [Youtube Channel](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
 
+#### Area41
+
+> Technical Information Security Conference - [@peterhuerlimann](https://twitter.com/peterhuerlimann]
+
+* **Website:** https://area41.io/
+* **Location:** Zurich, Swizerland
+* **Date:** June 2018 (every other year)
+* **Has reminder mailing list:** yes
+* **Twitter:** [@a41con](https://twitter.com/a41con)
+* **Twitter Hashtag:** #AREA41
+* **Videos:** [Youtube Channel](https://www.youtube.com/user/defconswitzerland/videos)
+* **Attendees:** [@peterhuerlimann](https://twitter.com/peterhuerlimann)
+
 ### Dent:Space
 
 > It was smashing. highly recommended. - [@Annaleen](https://twitter.com/Annaleen)
