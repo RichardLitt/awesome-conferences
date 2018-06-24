@@ -73,7 +73,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 > Technical Information Security Conference. Highly recommend it to anyone interested in Information Security topics, be it more or less technical. It is well organized and attracts good speakers. Also, the badges are nice ;) - [@peterhuerlimann](https://twitter.com/peterhuerlimann]
 
 * **Website:** https://area41.io/
-* **Location:** Zurich, Swizerland
+* **Location:** Zurich, Switzerland
 * **Date:** June 2018 (every other year)
 * **Has reminder mailing list:** yes
 * **Twitter:** [@a41con](https://twitter.com/a41con)
