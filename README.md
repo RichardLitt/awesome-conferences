@@ -68,9 +68,9 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Attendees**: [@jobot0](https://twitter.com/jobot0)
 * **Video**: [Youtube Channel](https://www.youtube.com/channel/UCkatLlah5weIpN23LqMgdTg)
 
-#### Area41
+### Area41
 
-> Technical Information Security Conference - [@peterhuerlimann](https://twitter.com/peterhuerlimann]
+> Technical Information Security Conference. Highly recommend it to anyone interested in Information Security topics, be it more or less technical. It is well organized and attracts good speakers. Also, the badges are nice ;) - [@peterhuerlimann](https://twitter.com/peterhuerlimann]
 
 * **Website:** https://area41.io/
 * **Location:** Zurich, Swizerland
