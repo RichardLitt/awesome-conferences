@@ -58,7 +58,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 
 ### AndroidMakers
 
-> The organizing team did an incredible job to have speakers from all over the world and from different parts of the Android community(Android team, Google Developer Experts, Developers strongly involved in the environment). - [@jobot0](https://twitter.com/jobot0) 
+> The organizing team did an incredible job to have speakers from all over the world and from different parts of the Android community(Android team, Google Developer Experts, Developers strongly involved in the environment). - [@jobot0](https://twitter.com/jobot0)
 
 * **Website**: http://androidmakers.fr/
 * **Location**: Paris, France
@@ -108,6 +108,21 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Notes or roundups:** https://github.com/aar0nTw/jsdc2014-notes, https://github.com/substack/jsdc.tw-2014
 * **Attendees:** [@PeterDaveHello](https://github.com/PeterDaveHello)
 
+### Chain React
+
+> Chain React is a React Native conference in North America organized by Infinite Red. Infinite Red puts an incredible amount of effort into ensuring the conference attendees have a great experience. If their staff sees you standing by yourself they will come hangout, chat and introduce you to others to share your passion for mobile development. The speakers lineup seems to cover every topic you'd expect. You will even hear from Facebook engineers on the state of React Native. You'll leave the conference with a ton of cool swag and a ton of motivation to build kick ass apps with React Native. - [@_SeanGroff](https://twitter.com/_SeanGroff)
+
+* **Website:** https://infinite.red/ChainReactConf
+* **Location:** Portland, OR
+* **Date:** July 2018 (yearly)
+* **Has reminder mailing list:** Yes [React Native Newsletter](http://reactnative.cc/)
+* **Twitter:** [@ChainReactConf](https://twitter.com/ChainReactConf)
+* **Twitter Hashtag:** #ChainReact2018
+* **Tags:** reactnative, react, js, javascript
+* **Videos:** [Infinite Red YouTube](https://www.youtube.com/channel/UCwpSzVt7QpLDbCnPXqR97-g/playlists)
+* **Notes or roundups:** [Chain React 2018 Day 1 Recap](https://www.komododigital.co.uk/insights/chain-react-day-1), [Chain React 2018 Day 2 Recap](https://www.komododigital.co.uk/insights/chain-react-day-2)
+* **Attendees:** [@_SeanGroff](https://twitter.com/_SeanGroff)
+
 ## Old Conferences List
 
 _If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
@@ -127,10 +142,11 @@ _If you see any conferences here that you like // have attended // will attend, 
 ### North American
 
 * [!!Con](http://www.bangbangcon.com) // [@bangbangcon](http://twitter.com/bangbangcon)
-* [Active Indgredients](http://activeingredients.info/) 
+* [Active Indgredients](http://activeingredients.info/)
 * [AlterConf](http://www.alterconf.com/) // [@AlterConf](https://twitter.com/alterconf)
 * [CakeFest](http://cakefest.org) // [@cakephp](https://twitter.com/cakephp)
 * [CascadiaJS](http://cascadiajs.com) // [@CascadiaJS](https://twitter.com/CascadiaJS)
+* [Chain React](https://infinite.red/ChainReactConf) // [@ChainReactConf](https://twitter.com/ChainReactConf)
 * [Clojure/conj](http://clojure-conj.org/) // [@clojure_conj](https://twitter.com/clojure_conj)
 * [CppCon](http://cppcon.org/) // [@cppcon](https://twitter.com/cppcon)
 * [CSSConf Oakland](http://cssconfoak.land/) // [@CSSConfOak](https://twitter.com/cssconfoak)
