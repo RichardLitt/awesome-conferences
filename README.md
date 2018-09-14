@@ -94,6 +94,19 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Tags:** Space
 * **Attendees:** [@Annaleen](https://twitter.com/Annaleen)
 
+### DevTernity
+
+> DevTernity is a conference that brings the conferencing experience to a completely new level. By having some of the most world-wide known IT rockstars, it allows its attendees to get in touch and make new friends from all over the globe. DevTerniy main focus is software excellence and in that sense, the takeout knowledge of the attendees from this conference is extraordinary. - [@jovchem](https://twitter.com/jovchem)
+
+* **Website:** https://devternity.com
+* **Location:** Riga, Latvia
+* **Date:** 30 Nov - 1 Dec 2018. Happens every year
+* **Twitter:** [@devternity](https://twitter.com/devternity)
+* **Twitter Hashtag:**  #DevTernity
+* **Tags:** DevTernity
+* **Videos:** [YouTube](https://www.youtube.com/devternity) | [DevTube](https://dev.tube/find?q=devternity)
+* **Attendees:** [Jovche](https://twitter.com/jovchem)
+
 ### JSDC
 
 > It invites international speakers from other countries, provides high-quality real-time translation of the talks. - [@PeterDaveHello](https://github.com/PeterDaveHello)
