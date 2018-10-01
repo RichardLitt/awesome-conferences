@@ -31,14 +31,14 @@
 
 ## What makes a conference awesome?
 
- * A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on why, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces).
- * A great line up of talks.
- * A recurring schedule.
- * Diversity; both in the talks and in the community who attend.
- * Grants for students and minorities.
- * [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc.
- * Alcohol-free drink options.
- * Quiet rooms and safe space.
+* A [code of conduct](http://incisive.nu/2014/codes-of-conduct/) that is [explicitly mentioned and upheld](https://modelviewculture.com/pieces/a-code-of-conduct-is-not-enough). For more on why, see [this](https://modelviewculture.com/pieces/making-tech-spaces-safe-for-diverse-faces).
+* A great line up of talks.
+* A recurring schedule.
+* Diversity; both in the talks and in the community who attend.
+* Grants for students and minorities.
+* [Accessibility](https://modelviewculture.com/pieces/unlocking-the-invisible-elevator-accessibility-at-tech-conferences) for disabled persons: wheelchair access, [interpreters](http://www.linguabee.com/) or captioning, etc.
+* Alcohol-free drink options.
+* Quiet rooms and safe space.
 
 Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPLATE.md) provided.
 
@@ -254,6 +254,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [CCC (Chaos Communication Camp)](https://ccc.de/) // [@chaosupdates](https://twitter.com/chaosupdates)
 * [coldfrontconf](http://coldfrontconf.com/) // [@coldfrontconf](https://twitter.com/coldfrontconf)
 * [container.camp](https://container.camp/) // [@containercamp](https://twitter.com/containercamp)
+* [ConFrontJS](https://confrontjs.com/) // [@confrontjs](https://twitter.com/confrontjs)
 * [copenhagenjs](http://copenhagenjs.dk/) // [@copenhagenjs](https://twitter.com/copenhagenjs)
 * [Cornerstone](http://www.cornerstone.se/) // [@cornerstone](https://twitter.com/CornerstoneSwe)
 * [Craft Conf](http://craft-conf.com/2015) // [@CraftConf](https://twitter.com/@CraftConf)
