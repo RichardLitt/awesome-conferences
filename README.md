@@ -136,6 +136,21 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Notes or roundups:** [Chain React 2018 Day 1 Recap](https://www.komododigital.co.uk/insights/chain-react-day-1), [Chain React 2018 Day 2 Recap](https://www.komododigital.co.uk/insights/chain-react-day-2)
 * **Attendees:** [@_SeanGroff](https://twitter.com/_SeanGroff)
 
+### GITEX
+
+> GITEX is a yearly tech conference covering tech topics like AI, blockchain, cloud, robotics, and more. It also has speakers discussing how these technologies can be utilized to build smart cities and improve healthcare and education. Some of the [speakers](https://www.gitex.com/speakers?elqTrack=true) are engineers, VPs, and Chiefs from companies like Google, LinkedIn, eBay, Huawei, and so on.   - [@o_bahareth](https://twitter.com/o_bahareth)
+
+* **Website:** https://www.gitex.com
+* **Location:** Dubai, United Arab Emirates
+* **Date:** October 2018 (yearly)
+* **Has reminder mailing list:** No
+* **Twitter:** [@GITEXTechWeek](https://twitter.com/GITEXTechWeek)
+* **Twitter Hashtag:** #GITEX2018
+* **Tags:** technology, ai, blockchain, robotics, cloud, health, education
+* **Videos:** [GitexTechWeek YouTube](https://www.youtube.com/user/GitexTechWeek/playlists)
+* **Notes or roundups:** [Gitex 2017 news roundup](https://www.khaleejtimes.com/Gitex-2017)
+* **Attendees:** [@o_bahareth](https://twitter.com/o_bahareth)
+
 ## Old Conferences List
 
 _If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
