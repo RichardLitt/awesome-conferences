@@ -223,7 +223,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [Transhack](http://www.transhack.org/events/) // [@TransH4CK](https://twitter.com/TransH4CK)
 * [TXJS](http://texasjavascript.com) // [@txjs](https://twitter.com/txjs)
 * [UtahJS](conf.utahjs.com) // [@utjs](https://twitter.com/utjs)
-* [XOXO](http://2014.xoxofest.com/) // [@xoxox](https://twitter.com/xoxo)
+* [XOXO](https://xoxofest.com/) // [@xoxo](https://twitter.com/xoxo)
 
 #### New York
 
