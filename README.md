@@ -151,6 +151,7 @@ Add your conferences below, using the [Pull Request Template](PULL_REQUEST_TEMPL
 * **Notes or roundups:** [Gitex 2017 news roundup](https://www.khaleejtimes.com/Gitex-2017)
 * **Attendees:** [@o_bahareth](https://twitter.com/o_bahareth)
 
+
 ## Old Conferences List
 
 _If you see any conferences here that you like // have attended // will attend, please add them to the new list, above! Many hands makes light work._
@@ -316,6 +317,7 @@ _If you see any conferences here that you like // have attended // will attend, 
 * [NodeConf Europe](http://www.nodeconf.eu/) // [@nodeconfeu](https://twitter.com/nodeconfeu)
 * [Paris-Web](http://www.paris-web.fr/) // [@parisweb](https://twitter.com/ParisWeb)
 * [PolyConf](http://polyconf.com/) // [@polyconfhq](https://twitter.com/polyconfhq)
+* [PyCon Italy](https://www.pycon.it/en/) // [@pyconit](https://twitter.com/pyconit)
 * [React Amsterdam](https://react.amsterdam) // [@ReactAmsterdam](https://twitter.com/ReactAmsterdam)
 * [ReactEurope](http://www.react-europe.org) // [@ReactEurope](https://twitter.com/ReactEurope)
 * [RealtimeConf EU](http://realtimeconf.eu/) // [@RealtimeConfEu](https://twitter.com/RealtimeConfEu)
