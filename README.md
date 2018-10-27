@@ -2,7 +2,7 @@
 
 > :ticket: A list of awesome conferences
 
-**Note**: This list is currently undergoing substantive changes. Take a look at the new conference entries; if you can, please help out by going through and filling out entries for the older conferences!
+**Note**: This list is deprecated. 
 
 ## Contents
 
