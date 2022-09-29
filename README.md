@@ -2,8 +2,6 @@
 
 > :ticket: A list of awesome conferences
 
-**Note**: This list is deprecated. 
-
 ## Contents
 
 - [What makes a conference awesome?](#what-makes-a-conference-awesome)
