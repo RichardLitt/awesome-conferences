@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 
-ruby '2.2.7'
+ruby '3.1.2'
 
 gem 'kramdown'
 gem 'nokogiri'

@@ -1,20 +1,22 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    kramdown (1.16.2)
-    mini_portile2 (2.3.0)
-    nokogiri (1.8.2)
-      mini_portile2 (~> 2.3.0)
+    kramdown (2.4.0)
+      rexml
+    nokogiri (1.13.8-x86_64-darwin)
+      racc (~> 1.4)
+    racc (1.6.0)
+    rexml (3.2.5)
 
 PLATFORMS
-  ruby
+  x86_64-darwin-21
 
 DEPENDENCIES
   kramdown
   nokogiri
 
 RUBY VERSION
-   ruby 2.2.7p470
+   ruby 3.1.2p20
 
 BUNDLED WITH
-   1.16.1
+   2.3.7
